@@ -1,0 +1,1002 @@
+NAME,ID_Number,Gender,Location,Profession,Mode of payment,Uses Smartphone,Has Credit card,"Last Visited
+DD/MM/YYYY",Frequency,Spending Level, Estimated Salary, Salary Category, Relationship Status,No. of children, Floor of Major Purchase, Similar Categorical Shop,Referral source, Membership
+Abhishek ,122168,M,sector-1,Engineer,Cash,0,1,06-06-2014,2,1,RUPEES<10000>,1,Married,2,0,0,Friend,0
+Aishwarya,133890,F,sector-2,Doctor,Debit,2,2,21-05-2014,3,3,RUPEES<29000>,2,Married,1,2,1,Friend,1
+Ajay ,124234,M,sector-1,Business,Credit,1,1,15-10-2014,4,2,RUPEES<12005>,1,Unmarried,,1,2,Banner,1
+Ajith,123168,M,sector-2,Farmer,Net-Banking,2,2,30-04-2014,1,4,RUPEES<21000>,2,Married,2,2,1,Social media,0
+Akhila,122890,F,sector-1,Farmer,UPI,0,1,29-01-2014,2,5,RUPEES<24000>,2,Unmarried,,3,0,others,0
+Akhilesh,24034,M,sector-2,Architect,Cash,0,0,06-04-2014,3,6,RUPEES<28300>,2,Married,2,1,0,Friend,0
+Akshita,20168,F,sector-1,Engineer,Net-Banking,1,0,29-03-2014,2,4,RUPEES<17500>,1,Unmarried,,0,1,Banner,0
+Altha,39890,F,sector-12,Doctor,Credit,2,1,17-10-2014,3,3,RUPEES<12000>,1,Unmarried,,-1,0,Friend,1
+Ankit,120234,M,sector-14,Engineer,Net-Banking,1,0,13-09-2014,4,2,RUPEES<12000>,1,Unmarried,,-1,0,Friend,1
+Anushman,22168,M,sector-12,Engineer,Cash,0,1,17-07-2014,5,4,RUPEES<45000>,4,Married,3,0,1,Banner,0
+Bhagavan,33890,M,sector-11,Doctor,Cash,1,0,22-02-2014,6,5,RUPEES<18000>,1,Married,3,0,2,Mobile ad,0
+Chandrika,124234,F,sector-20,Farmer,Debit,0,0,25-01-2014,4,2,RUPEES<15000>,1,Unmarried,,1,1,Mobile ad,1
+Charan,123168,M,sector-11,Farmer,Net-Banking,2,1,29-03-2014,3,1,RUPEES<62000>,6,Married,1,2,0,Friend,0
+Dheraj,122890,M,sector-2,Architect,Net-Banking,2,0,31-08-2014,1,3,RUPEES<45000>,4,Unmarried,,3,1,Mobile ad,0
+Divya,124034,F,sector-14,Architect,UPI,2,2,24-10-2014,2,4,RUPEES<65000>,6,Unmarried,,-1,2,Friend,1
+Ganesh,110168,M,sector-2,Engineer,Net-Banking,1,0,29-03-2014,4,5,RUPEES<45000>,4,Married,1,-1,0,Friend,1
+Geerish,138890,T,sector-12,Engineer,Debit,1,1,02-01-2014,5,3,RUPEES<40000>,4,Married,2,0,1,Banner,1
+Harika,120234,T,sector-2,Engineer,Credit,0,1,29-12-2014,3,1,RUPEES<15000>,1,Unmarried,,-1,2,Banner,1
+Haritha,12268,F,sector-1,Farmer,Net-Banking,1,1,06-04-2014,2,2,RUPEES<18000>,1,Unmarried,,-1,0,Banner,1
+Jaswanth,121890,M,sector-12,Engineer,UPI,1,2,28-04-2014,4,3,RUPEES<25000>,2,Married,2,2,1,Friend,1
+Jaya Sree,24234,T,sector-1,Doctor,Cash,0,1,30-04-2014,2,4,RUPEES<650000>,6,Married,3,3,1,Social media,1
+Jyothi,23168,F,sector-12,Business,Net-Banking,2,1,05-03-2014,3,5,RUPEES<50000>,5,Unmarried,,1,1,Social media,0
+Kavya,12289,F,sector-13,Business,Credit,1,1,01-04-2014,5,3,RUPEES<35000>,3,Married,3,-1,2,Friend,0
+Kavya sree,154034,F,sector-12,Business,Net-Banking,1,1,06-09-2014,4,2,RUPEES<25000>,2,Unmarried,,0,0,Friend,1
+Krishna,10168,M,sector-14,Engineer,UPI,2,2,08-08-2014,1,4,RUPEES<45000>,4,Married,2,0,2,Banner,0
+Lavanya,23308,F,sector-2,Farmer,Cash,1,1,22-09-2014,2,5,RUPEES<30000>,3,Unmarried,,1,2,Banner,0
+Lokesh,29890,M,sector-23,Doctor,Net-Banking,2,0,24-12-2014,6,5,RUPEES<20000>,2,Unmarried,,2,1,others,1
+Manasa,20234,F,sector-14,Farmer,Debit,1,2,03-07-2014,7,6,RUPEES<35000>,3,Married,2,1,2,others,1
+Manjari,72168,F,sector-21,Farmer,Credit,0,1,28-01-2014,6,1,RUPEES<12000>,1,Married,2,3,0,others,0
+Manvitha,28890,F,sector-14,Architect,Net-Banking,1,1,27-12-2014,8,2,RUPEES<30000>,3,Unmarried,,1,2,Friend,0
+Nalini,63234,F,sector-2,Architect,UPI,2,0,30-01-2014,1,3,RUPEES<25000>,2,Married,2,-1,0,Banner,1
+Neeraj,83168,M,sector-14,Architect,Net-Banking,1,2,14-08-2014,2,4,RUPEES<12000>,1,Married,1,0,2,Mobile ad,0
+Pappana7+,122190,M,sector-12,Engineer,Debit,1,1,03-05-2014,9,5,RUPEES<50000>,5,Unmarried,,2,1,Banner,0
+Pavan,34034,T,sector-21,Manager,Cash,1,2,26-08-2014,1,3,RUPEES<40000>,4,Married,1,1,0,Banner,1
+Rahul,122168,M,sector-2,Manager,Net-Banking,2,2,27-11-2014,3,2,RUPEES<20000>,2,Married,1,1,0,Friend,0
+Rajesh,129890,T,sector-13,Engineer,UPI,0,1,01-02-2014,4,1,RUPEES<12000>,1,Unmarried,,1,1,Friend,1
+Rakesh,120238,M,sector-2,Doctor,Cash,0,0,17-06-2014,3,3,RUPEES<23000>,2,Unmarried,,2,0,Friend,0
+Rathna,42169,F,sector-11,Manager,Debit,1,0,25-05-2014,1,2,RUPEES<39950>,4,Unmarried,,2,2,others,1
+Rohith,23290,M,sector-2,Doctor,Credit,1,1,07-09-2014,6,2,RUPEES<20000>,2,Married,2,2,2,Banner,1
+Rohith.T,124242,M,sector-1,Engineer,Net-Banking,1,2,20-06-2014,7,2,RUPEES<14500>,1,Married,3,3,1,others,0
+Rupesh,123168,M,sector-21,Farmer,UPI,2,1,21-09-2014,5,2,RUPEES<20000>,2,Married,4,3,0,Friend,1
+Samhitha,122890,F,sector-17,Engineer,Cash,0,0,20-09-2014,1,1,RUPEES<12000>,1,Unmarried,,3,0,Friend,0
+Shukala,122334,F,sector-21,Farmer,Debit,2,2,07-06-2014,2,2,RUPEES<15000>,1,Unmarried,,-1,1,Friend,1
+Sridhar,120168,M,sector-12,Farmer,Cash,1,0,03-04-2014,3,1,RUPEES<12000>,1,Married,1,-1,2,others,0
+Swetha,39090,F,sector-14,Farmer,Net-Banking,2,1,09-11-2014,5,3,RUPEES<12000>,1,Married,2,-1,1,Banner,1
+Vaibhav,129934,M,sector-14,Farmer,Cash,1,1,17-08-2014,3,4,RUPEES<40000>,4,Married,2,2,2,Banner,1
+Vijay,40090,M,sector-11,Farmer,Debit,2,1,09-07-2014,3,6,RUPEES<40000>,4,Married,1,1,0,others,1
+Vikranth,22234,M,sector-2,Engineer,Debit,0,1,15-02-2014,4,4,RUPEES<30000>,3,Unmarried,2,2,2,Friend,1
+Vinay,20168,T,sector-3,Engineer,Net-Banking,1,1,02-05-2014,5,3,RUPEES<25000>,2,Unmarried,2,3,1,Friend,0
+Anushman,4275,,sector-4,Engineer,,0,1,16-07-2014,6,2,,3,Married,0,3,0,Friend,0
+Bhagavan mama,19054,,sector-5,Farmer,,1,2,30-07-2014,3,1,,6,Married,0,2,0,Friend,0
+Chandrika vijay,12462,,sector-6,Engineer,,0,0,20-01-2014,2,6,,5,Married,0,-1,1,Banner,1
+Charan sing,12567,,sector-1,Doctor,,2,1,17-05-2014,1,2,,2,Unmarried,0,2,2,Mobile ad,0
+Dheraj hasig,15261,,sector-12,Business,,0,1,14-01-2014,6,3,,4,Unmarried,2,1,2,Mobile ad,0
+Divya tandur,19919,,sector-1,Business,,1,1,16-08-2014,8,2,,6,Married,2,0,0,Friend,1
+Ganesh baswaraju,13171,,sector-12,Business,,0,0,16-07-2014,5,6,,6,Married,4,3,1,Mobile ad,0
+Geerish J,15116,,sector-13,Engineer,,1,1,19-11-2014,10,4,,1,Married,1,-1,2,Friend,0
+Harika s,8900,,sector-12,Farmer,,1,0,10-01-2014,8,2,,5,Married,1,2,1,Friend,0
+Haritha wgl,2535,,sector-14,Doctor,,1,1,06-07-2014,10,4,,4,Unmarried,4,3,1,Banner,0
+Jaswanth k,9406,,sector-2,Farmer,,0,0,31-05-2014,1,4,,3,Unmarried,1,2,0,Banner,1
+Jaya Sree,17592,,sector-23,Architect,,1,2,28-11-2014,1,5,,1,Unmarried,4,2,1,Banner,0
+Jyothi,17935,,sector-14,Architect,,0,1,06-12-2014,7,1,,3,Unmarried,4,0,1,Friend,0
+Kavya p,7098,,sector-21,Architect,,1,2,08-01-2014,1,5,,2,Married,2,1,1,Social media,0
+Kavya sree,12725,,sector-14,Engineer,,0,1,21-12-2014,7,1,,5,Married,4,3,0,Social media,0
+Krishna ,6735,,sector-2,Manager,,1,0,27-02-2014,5,5,,6,Married,4,0,0,Friend,0
+Lavanya,19028,,sector-14,Manager,,1,2,23-06-2014,5,6,,2,Married,1,-1,2,Friend,0
+Lokesh ka,14618,,sector-12,Engineer,,2,2,23-12-2014,4,4,,6,Unmarried,2,3,0,Banner,0
+Manasa  nasa,5202,,sector-21,Doctor,,2,1,12-01-2014,4,6,,3,Unmarried,3,2,0,Friend,1
+Manjari v,9194,,sector-2,Manager,,1,2,19-09-2014,5,5,,5,Married,4,-1,1,Friend,1
+Manvitha ka,16220,,sector-13,Doctor,,2,1,31-08-2014,7,6,,2,Married,1,1,1,Banner,1
+Nalini pa,12407,,sector-2,Engineer,,0,0,28-12-2014,2,6,,1,Unmarried,2,3,1,Mobile ad,1
+Neeraj,1150,,sector-11,Engineer,,1,2,27-06-2014,5,2,,6,Married,1,-1,2,Mobile ad,1
+Pappana7+,10440,,sector-2,Engineer,,2,2,05-06-2014,4,2,,6,Unmarried,1,3,0,Friend,1
+Pavan guguloth,17947,,sector-1,Farmer,,1,1,08-09-2014,4,1,,4,Married,2,3,0,Mobile ad,1
+Rahul pm,14455,,sector-21,Engineer,,0,2,18-08-2014,4,2,,5,Unmarried,1,2,1,Friend,0
+Rajesh kanna,9213,,sector-22,Doctor,,0,0,28-03-2014,8,6,,2,Unmarried,4,0,0,Friend,1
+Rakesh   chittee,19956,,sector-23,Business,,2,1,08-10-2014,3,4,,3,Unmarried,4,3,2,Banner,1
+Rathna babu,19451,,sector-24,Business,,1,0,27-02-2014,2,5,,6,Married,0,0,1,Banner,1
+Rohih,4411,,sector-1,Business,,0,2,29-10-2014,8,1,,5,Married,4,1,0,Banner,0
+Rohith.T,3680,,sector-12,Engineer,,0,1,22-07-2014,4,2,,6,Unmarried,3,-1,2,Friend,0
+Shukala k,2365,,sector-1,Farmer,,2,1,16-06-2014,3,6,,1,Married,2,2,1,Social media,1
+Sridhar thota,3786,,sector-12,Doctor,,0,1,02-12-2014,8,2,,1,Unmarried,1,2,2,Social media,0
+Swetha kedas,2553,,sector-13,Farmer,,0,1,07-07-2014,7,6,,2,Unmarried,4,1,1,Friend,1
+Vaibhav p,5345,,sector-12,,,0,0,17-01-2014,6,6,,3,Married,0,1,1,Friend,0
+Vijay thota,9219,,sector-14,,,0,2,20-12-2014,4,6,,3,Married,3,3,1,Banner,1
+thota vidya,4638,,sector-2,,,2,1,10-06-2014,1,3,,4,Unmarried,0,2,2,others,0
+mama Rupesh,6939,,sector-23,,,2,0,30-11-2014,4,3,,1,Unmarried,2,0,1,Banner,1
+chintu yadav,12335,,sector-14,,,2,0,09-06-2014,8,1,,4,Married,3,1,0,others,0
+chintu chintu,6395,,sector-21,,,1,0,17-01-2014,9,1,,2,Married,2,2,1,Friend,1
+whatsapp,3983,,sector-14,,,2,2,08-05-2014,1,5,,6,Unmarried,0,-1,1,Friend,0
+hruday,2253,,sector-2,,,0,0,20-06-2014,1,6,,1,Married,2,3,0,Friend,1
+hruday kiran,2131,,sector-14,,,2,2,03-07-2014,1,4,,5,Unmarried,2,3,1,others,1
+hruday varun,2994,,sector-12,,,1,0,04-05-2014,10,6,,3,Married,3,3,1,Banner,0
+varun,2429,,sector-21,,,1,1,18-09-2014,4,4,,4,Unmarried,0,2,1,Banner,1
+vidya thumakanti,2203,,sector-2,,,2,2,10-05-2014,10,5,,2,Unmarried,1,-1,1,others,0
+prohith,2448,,sector-13,,,0,2,27-11-2014,7,3,,4,Married,3,1,0,Friend,1
+kaibalya,2593,,sector-2,,,0,2,15-12-2014,3,2,,3,Married,1,3,2,Friend,1
+sharath,2895,,sector-11,,,2,1,03-08-2014,8,5,,2,Unmarried,2,0,0,Friend,1
+barnali,2665,,sector-2,,,2,2,23-12-2014,5,3,,3,Married,0,2,2,Friend,0
+vishnu,2407,,sector-1,,,1,2,09-05-2014,9,5,,5,Married,2,3,1,Banner,0
+Namratha ,2451,,sector-21,,,0,1,01-11-2014,9,1,,1,Unmarried,0,1,1,Mobile ad,1
+Namratha sing,2045,,sector-22,,,0,2,23-02-2014,6,4,,5,Married,0,1,1,Mobile ad,0
+hruday,2297,,sector-23,,,1,1,18-03-2014,5,4,,1,Married,4,0,1,Friend,1
+hruday kiran,2373,,sector-24,,,0,0,10-01-2014,2,4,,2,Unmarried,4,3,2,Mobile ad,1
+hruday varun,2792,,sector-25,,,1,2,09-10-2014,3,4,,2,Unmarried,3,-1,1,Friend,1
+varun,2206,,sector-26,,,2,2,20-12-2014,6,4,,5,Unmarried,3,0,0,Friend,1
+vidya thumakanti,2444,,sector-27,,,1,2,12-09-2014,9,6,,1,Married,1,0,2,Banner,0
+prohith,2069,,sector-28,,,1,1,11-04-2014,7,6,,5,Married,1,2,2,Banner,0
+kaibalya,2125,,sector-29,,,1,0,25-01-2014,10,2,,2,Married,0,2,1,Banner,0
+sharath,2806,,sector-30,,,2,2,24-11-2014,2,1,,5,Unmarried,3,0,1,Friend,1
+barnali,2703,,sector-31,,,2,2,30-03-2014,7,2,,5,Unmarried,3,2,0,Social media,0
+vishnu,2784,,sector-32,,,0,2,01-05-2014,10,6,,3,Married,3,0,1,Social media,1
+Namratha ,2857,,sector-33,,,2,0,16-04-2014,4,1,,5,Married,4,0,1,Friend,1
+Namratha sing,2826,,sector-34,,,2,2,13-05-2014,6,4,,2,Married,2,-1,1,Friend,1
+Namratha ,2297,,sector-35,,,2,2,25-07-2014,1,3,,5,Married,3,2,0,Banner,0
+Rakesh   chittee,2709,,sector-36,,,0,1,02-03-2014,5,1,,6,Unmarried,1,1,1,Friend,1
+Rathna babu,2486,,sector-37,,,0,0,13-06-2014,3,2,,5,Unmarried,3,2,1,Mobile ad,1
+Rohih,2618,,sector-38,,,2,1,24-06-2014,8,4,,5,Married,2,-1,1,Friend,0
+Samhitha sis,2918,,sector-39,,,0,0,14-05-2014,10,6,,2,Married,1,-1,0,Friend,0
+Shukala k,2132,,sector-40,,,0,0,24-06-2014,6,5,,1,Married,3,-1,0,Friend,0
+Sridhar thota,2067,,sector-41,,,0,2,21-03-2014,4,4,,4,Unmarried,4,0,0,Mobile ad,1
+Swetha kedas,2051,,sector-42,,,1,1,06-01-2014,5,2,,1,Unmarried,0,3,2,Friend,0
+Vaibhav p,2603,,sector-43,,,2,2,03-04-2014,3,3,,3,Married,1,2,0,Friend,1
+Vijay thota,2004,,sector-12,,,2,2,22-03-2014,9,5,,6,Married,2,3,1,Banner,0
+thota vidya,2160,,sector-1,,,0,2,07-11-2014,10,6,,3,Married,2,1,2,Social media,0
+mama Rupesh,2366,,sector-12,,,0,0,21-04-2014,4,5,,1,Married,3,1,2,others,0
+chintu yadav,2952,,sector-13,,,1,1,06-01-2014,3,5,,3,Unmarried,1,-1,0,Friend,1
+chintu chintu,2443,,sector-12,,,2,0,08-07-2014,9,3,,2,Unmarried,1,2,1,Banner,1
+whatsapp,2474,,sector-14,,,1,2,06-01-2014,9,5,,4,Unmarried,1,3,2,Friend,1
+hruday,2231,,sector-2,,,2,2,29-07-2014,8,2,,2,Married,1,1,2,Friend,1
+hruday kiran,2278,,sector-23,,,0,1,29-03-2014,9,5,,2,Married,4,0,1,Banner,1
+hruday varun,2678,,sector-14,,,2,0,04-11-2014,3,4,,1,Married,4,0,0,Mobile ad,0
+varun,2684,,sector-21,,,2,0,13-04-2014,9,4,,3,Unmarried,1,3,1,Mobile ad,0
+vidya thumakanti,2270,,sector-14,,,1,1,10-12-2014,5,1,,1,Unmarried,3,2,0,Friend,1
+Adhil,2180,,sector-2,,,0,0,22-05-2014,7,6,,4,Married,0,3,1,Mobile ad,1
+GUUMJZ,2196,,sector-14,,,0,1,24-02-2014,9,2,,1,Married,2,-1,2,Friend,0
+YH=WPT,2896,,sector-12,,,2,2,25-06-2014,7,2,,3,Married,4,2,1,Friend,1
+EAALUK,1245,,sector-21,,,1,0,14-03-2014,5,5,,4,Married,1,0,2,Banner,1
+OYIHH?,1617,,sector-2,,,0,1,16-07-2014,5,3,,5,Unmarried,0,3,0,Banner,0
+?EUMWV,1473,,sector-13,,,2,1,01-03-2014,9,2,,6,Unmarried,3,1,2,Banner,0
+DHTRX?,1210,,sector-2,,,0,1,11-04-2014,7,2,,4,Unmarried,3,2,0,Friend,1
+UCNMEE,1733,,sector-11,,,0,0,28-10-2014,5,4,,6,Married,4,2,1,Social media,0
+K=R<TC,1226,,sector-2,,,1,1,25-05-2014,3,5,,6,Unmarried,1,0,1,Friend,0
+FNKKJC,2056,,sector-1,,,2,0,10-10-2014,7,2,,3,Unmarried,4,3,0,Friend,0
+F<GZFV,1635,,sector-21,,,0,1,01-12-2014,7,4,,2,Unmarried,0,0,2,Banner,1
+AJZB<T,1324,,sector-22,,,2,0,26-11-2014,3,3,,5,Married,3,2,0,Mobile ad,1
+UA@?UF,2029,,sector-23,,,1,0,24-08-2014,5,1,,4,Married,4,1,2,Mobile ad,0
+VN<TVS,1264,,sector-24,,,2,0,10-07-2014,4,5,,1,Unmarried,0,0,2,Friend,0
+>YXEOF,1877,,sector-25,,,2,2,14-10-2014,9,2,,2,Married,0,1,1,Mobile ad,1
+XQDFIC,1703,,sector-26,,,1,2,07-06-2014,4,1,,6,Unmarried,0,3,0,Friend,1
+EA>QAX,1264,,sector-27,,,1,1,20-06-2014,1,3,,2,Unmarried,0,3,2,Friend,0
+NCTYSU,1652,,sector-28,,,0,2,05-04-2014,8,6,,5,Married,1,-1,0,Banner,1
+RV>FUP,1560,,sector-29,,,0,2,04-08-2014,3,2,,4,Married,3,2,1,Banner,1
+RE=ZPD,1535,,sector-30,,,1,1,07-09-2014,5,4,,3,Unmarried,4,0,2,Banner,0
+@V=>TW,1946,,sector-1,,,0,2,05-08-2014,6,5,,1,Unmarried,4,0,2,Friend,0
+KLUQRS,1644,,sector-12,,,1,2,14-04-2014,1,3,,6,Married,3,3,2,Social media,0
+LU@VBT,1859,,sector-13,,,1,0,18-04-2014,2,4,,4,Married,2,1,0,Social media,0
+ZVRSCC,1478,,sector-12,,,1,0,31-10-2014,10,2,,4,Unmarried,0,3,0,Friend,0
+QIVE=V,1565,,sector-14,,,2,0,30-08-2014,7,4,,6,Married,1,2,2,Friend,1
+>SGBYV,1795,,sector-2,,,1,0,16-10-2014,5,4,,4,Unmarried,1,2,2,Banner,0
+<LGYF<,1696,,sector-23,,,0,2,10-12-2014,3,3,,3,Married,0,-1,2,Friend,0
+=DA==D,1684,,sector-14,,,1,0,28-10-2014,9,4,,1,Unmarried,3,1,0,Banner,1
+KF<H@R,1695,,sector-21,,,0,0,29-01-2014,10,3,,3,Unmarried,0,3,1,Mobile ad,0
+NSNDUT,1911,,sector-14,,,0,1,21-04-2014,4,6,,4,Married,3,-1,2,Banner,1
+IEGQX>,1230,,sector-2,,,2,2,20-10-2014,8,3,,2,Married,0,2,0,Banner,0
+WQMI?I,1532,,sector-14,,,2,0,27-05-2014,1,5,,1,Unmarried,1,2,2,Friend,0
+MJ=<GV,1674,,sector-12,,,0,1,14-09-2014,1,3,,5,Married,0,-1,1,Friend,0
+CBAZ<P,2057,,sector-21,,,1,1,20-06-2014,9,6,,6,Married,3,1,1,Friend,1
+MHFB@C,1507,,sector-2,,,1,1,04-10-2014,8,1,,4,Unmarried,4,2,0,others,1
+?H=YT<,1471,,sector-13,,,1,0,10-09-2014,9,2,,2,Married,4,-1,2,Banner,0
+S<DVCY,1760,,sector-2,,,0,0,22-02-2014,7,2,,1,Married,1,-1,1,others,1
+<MMAQV,1870,,sector-11,,,2,0,18-03-2014,1,6,,6,Unmarried,3,3,0,Friend,1
+>=RPG?,1813,,sector-2,,,1,1,28-08-2014,2,5,,1,Unmarried,0,3,0,Friend,0
+VAGZTJ,2072,,sector-1,,,0,0,05-05-2014,10,4,,1,Unmarried,4,0,2,Friend,0
+FYMRL@,1686,,sector-21,,,1,1,26-12-2014,1,5,,3,Married,2,2,0,others,0
+?EUH?=,1692,,sector-22,,,0,0,06-08-2014,7,4,,3,Married,0,1,0,Banner,1
+O<<ETI,1357,,sector-23,,,0,1,04-12-2014,7,3,,2,Married,2,1,2,Banner,0
+TTPNYV,1416,,sector-24,,,2,2,27-09-2014,4,5,,5,Unmarried,3,3,2,others,0
+T>PZRA,1572,,sector-25,,,1,2,10-09-2014,3,5,,1,Unmarried,2,-1,1,Friend,0
+BF@TUS,1962,,sector-26,,,0,0,06-10-2014,2,3,,6,Married,1,-1,2,Friend,1
+B?RQTS,1992,,sector-27,,,0,1,21-02-2014,1,3,,3,Married,2,2,2,Friend,0
+MOUOGD,1760,,sector-28,,,2,1,30-11-2014,10,6,,6,Married,0,0,2,Friend,0
+GORW@V,1589,,sector-29,,,0,2,07-03-2014,3,3,,2,Married,0,0,1,Banner,1
+QUC@ST,1549,,sector-30,,,1,2,28-05-2014,3,1,,6,Unmarried,4,-1,1,Mobile ad,1
+MJ?>DN,1624,,sector-13,,,2,0,25-11-2014,9,5,,2,Unmarried,1,1,2,Mobile ad,0
+AVXNEG,15830,,sector-12,,,1,1,28-07-2014,6,2,,1,Married,4,0,0,Friend,1
+MVSKZ>,16793,,sector-14,,,0,1,24-10-2014,5,5,,6,Married,3,-1,1,Mobile ad,0
+KWOKUV,19775,,sector-2,,,1,1,07-11-2014,2,5,,5,Married,3,0,1,Friend,1
+RZYKJG,16844,,sector-23,,,1,0,06-12-2014,4,4,,4,Unmarried,1,2,2,Friend,1
+NUXUS<,14818,,sector-14,,,1,0,04-10-2014,6,4,,1,Unmarried,2,2,2,Banner,0
+BYA==S,18062,,sector-21,,,1,1,10-08-2014,3,1,,6,Married,4,-1,1,Banner,0
+LUO<UF,16691,,sector-14,,,2,1,10-11-2014,8,5,,4,Married,0,1,1,Banner,0
+<<RKX@,17780,,sector-2,,,0,1,22-08-2014,3,1,,6,Married,0,0,0,Friend,1
+QN>BEB,10581,,sector-14,,,0,2,10-10-2014,10,1,,4,Married,4,1,2,Social media,1
+<ACZ@>,19006,,sector-12,,,0,0,19-09-2014,10,1,,3,Unmarried,1,0,0,Social media,0
+SGV@ZX,11582,,sector-21,,,1,1,21-09-2014,5,5,,6,Unmarried,4,-1,2,Friend,0
+SFMATB,19709,,sector-2,,,2,2,25-11-2014,5,3,,6,Unmarried,0,1,0,Friend,0
+UHIEAO,12969,,sector-13,,,1,0,30-07-2014,10,5,,3,Married,3,1,2,Banner,0
+P?FKJX,18873,,sector-2,,,0,0,31-05-2014,2,1,,5,Married,1,1,1,Friend,0
+RYNANX,16110,,sector-11,,,1,0,13-09-2014,1,4,,4,Married,0,0,1,Mobile ad,1
+MNIHX=,11954,,sector-2,,,2,2,08-10-2014,1,5,,3,Married,2,0,0,Friend,1
+?YJCOP,11527,,sector-1,,,2,1,04-09-2014,6,5,,3,Unmarried,3,3,0,Friend,1
+MKWIBK,10848,,sector-21,,,2,2,14-06-2014,10,4,,5,Unmarried,3,2,2,Social media,0
+#NAME?,18414,,sector-1,,,0,2,09-07-2014,8,3,,6,Married,0,0,2,Friend,1
+KQMDRE,16245,,sector-12,,,2,2,17-11-2014,4,1,,5,Married,1,-1,2,Friend,0
+VERZYT,16702,,sector-1,,,1,0,11-07-2014,2,4,,1,Married,1,0,0,Banner,1
+NKFFEX,12801,,sector-12,,,1,0,04-07-2014,5,4,,5,Unmarried,4,3,0,Mobile ad,1
+H>Z>EM,17843,,sector-13,,,2,0,29-12-2014,2,2,,5,Unmarried,1,-1,1,Mobile ad,1
+FL=OT>,13456,,sector-12,,,2,2,26-06-2014,2,2,,2,Married,3,2,2,Friend,0
+#NAME?,17894,,sector-14,,,1,1,17-05-2014,6,2,,5,Married,0,3,2,Mobile ad,1
+<MVPVV,19166,,sector-2,,,0,0,22-05-2014,9,6,,6,Married,2,-1,0,Friend,1
+FXQMRD,11942,,sector-23,,,1,0,24-06-2014,6,4,,6,Married,1,-1,0,Friend,0
+LTEEAJ,10431,,sector-14,,,0,2,13-03-2014,9,4,,2,Unmarried,3,0,0,Banner,1
+DMZ>TH,14703,,sector-21,,,2,0,16-12-2014,2,6,,4,Unmarried,3,2,2,Banner,0
+<YUKCR,17260,,sector-14,,,2,0,30-12-2014,3,1,,1,Married,0,3,0,Banner,0
+ZKIIOR,15292,,sector-2,,,2,0,10-06-2014,1,3,,5,Unmarried,2,3,2,Friend,0
+XGICVN,10138,,sector-14,,,0,2,05-07-2014,9,4,,1,Married,1,1,2,Social media,1
+@>B@PZ,19113,,sector-12,,,0,0,03-10-2014,5,1,,5,Unmarried,1,3,2,Social media,1
+KX=I@T,13376,,sector-21,,,2,0,21-11-2014,8,3,,2,Unmarried,3,-1,1,Friend,1
+P<QWRU,18350,,sector-2,,,1,2,10-12-2014,7,2,,1,Married,0,1,1,Friend,1
+DY=PZX,19128,,sector-13,,,1,1,09-10-2014,4,6,,1,Married,3,-1,0,Banner,1
+OZHDVH,11756,,sector-2,,,0,0,16-12-2014,5,1,,3,Unmarried,3,3,0,Mobile ad,0
+RQJONK,18778,,sector-11,,,2,1,18-08-2014,8,5,,3,Unmarried,1,0,2,Mobile ad,0
+AL>OPC,12816,,sector-2,,,2,0,12-04-2014,8,4,,5,Married,3,-1,1,Friend,1
+SVGJH?,16107,,sector-1,,,2,0,12-09-2014,10,6,,5,Married,0,0,1,Mobile ad,0
+WV=QIZ,13573,,sector-21,,,0,2,15-01-2014,7,3,,3,Unmarried,2,3,0,Friend,1
+WZJBCZ,14505,,sector-22,,,1,0,11-12-2014,7,5,,3,Married,2,2,1,Friend,0
+RZAWLO,15342,,sector-23,,,2,2,04-10-2014,10,3,,3,Unmarried,0,-1,0,Banner,0
+W>S>SG,18969,,sector-24,,,1,1,31-12-2014,6,6,,2,Married,1,0,1,Banner,0
+F=HCEX,15359,,sector-25,,,2,0,25-01-2014,7,5,,4,Unmarried,0,1,1,Banner,1
+TPQ@BH,14525,,sector-26,,,0,2,05-02-2014,7,4,,2,Unmarried,1,2,1,Friend,0
+JYQTOD,13109,,sector-27,,,1,0,29-06-2014,8,2,,6,Married,2,-1,1,Social media,1
+T=QWGV,13037,,sector-28,,,2,0,01-08-2014,6,4,,6,Married,4,-1,1,Friend,0
+O@@FZO,13637,,sector-29,,,1,2,10-03-2014,3,6,,5,Unmarried,4,0,2,Friend,0
+U?F<WD,2919,,sector-30,,,1,2,06-07-2014,9,5,,6,Married,1,3,0,Banner,0
+QLNDK>,3785,,sector-31,,,2,2,04-09-2014,9,6,,1,Married,0,1,1,Mobile ad,1
+HWPMHK,8118,,sector-32,,,1,0,17-11-2014,6,6,,5,Unmarried,0,-1,0,Mobile ad,0
+><R<@L,9858,,sector-33,,,0,0,27-06-2014,8,6,,5,Married,0,-1,1,Friend,1
+YM<HNL,8408,,sector-34,,,0,0,15-12-2014,5,2,,2,Married,4,0,2,Mobile ad,1
+=GS==J,6645,,sector-35,,,1,0,18-02-2014,4,2,,5,Unmarried,2,3,1,Friend,0
+ASOZFT,3707,,sector-36,,,0,2,04-06-2014,7,3,,1,Unmarried,2,-1,1,Friend,1
+QBXD>Y,3439,,sector-37,,,2,0,12-04-2014,2,4,,1,Unmarried,3,-1,1,Banner,1
+EUVTD<,5754,,sector-38,,,2,0,08-08-2014,1,5,,5,Married,3,2,0,Banner,1
+KLRQVY,6475,,sector-39,,,0,1,27-02-2014,3,2,,6,Married,3,3,1,Banner,1
+UXHSGS,6311,,sector-40,,,2,1,24-10-2014,9,2,,2,Married,2,3,1,Friend,0
+?DSCSG,3614,,sector-41,,,2,0,15-07-2014,7,2,,3,Unmarried,1,1,0,Social media,1
+>K?TD@,6663,,sector-42,,,1,0,06-08-2014,4,3,,1,Unmarried,1,0,0,Social media,0
+<YXOXJ,4199,,sector-43,,,2,2,31-10-2014,3,6,,1,Married,0,-1,0,Friend,1
+R=U>=Y,5233,,sector-44,,,0,2,08-05-2014,5,6,,4,Married,2,3,0,Friend,0
+<FLMPE,3239,,sector-45,,,2,2,16-07-2014,10,2,,4,Married,1,-1,2,Banner,0
+LMIKX@,8728,,sector-46,,,0,0,01-09-2014,2,1,,1,Married,2,3,0,Friend,1
+BV>HOS,9881,,sector-47,,,0,1,04-07-2014,1,2,,6,Unmarried,4,-1,0,Mobile ad,0
+WJ?>BI,7047,,sector-48,,,0,2,11-02-2014,3,1,,2,Unmarried,4,1,0,Friend,0
+NQF>JK,8088,,sector-49,,,0,0,01-05-2014,9,1,,3,Married,0,-1,0,Friend,0
+IUP@PM,6180,,sector-50,,,1,0,01-06-2014,10,6,,4,Married,1,2,1,Friend,0
+MKHKFB,4875,,sector-51,,,2,1,23-03-2014,1,1,,4,Married,1,1,0,Mobile ad,0
+H@>DCS,4692,,sector-52,,,0,1,02-02-2014,5,6,,1,Unmarried,0,-1,0,Friend,1
+Q<DLGA,7685,,sector-53,,,1,2,18-10-2014,10,1,,6,Unmarried,0,1,2,Friend,0
+E<DVLP,5748,,sector-54,,,0,1,10-10-2014,8,6,,6,Married,4,-1,1,Social media,0
+HXIE>Y,8043,,sector-55,,,2,1,23-05-2014,6,6,,2,Married,4,0,0,others,0
+EK@VOG,7667,,sector-56,,,1,1,21-08-2014,9,4,,5,Married,1,0,2,Friend,0
+UHMS>F,6993,,sector-57,,,1,1,17-11-2014,8,3,,2,Married,4,-1,0,Banner,1
+VX>@QD,9245,,sector-58,,,0,0,06-07-2014,7,3,,4,Unmarried,1,0,0,Friend,1
+NEKBT>,5435,,sector-59,,,0,1,02-04-2014,5,1,,6,Unmarried,1,-1,0,Friend,0
+IHQNJD,4816,,sector-60,,,2,2,05-07-2014,9,1,,6,Married,1,2,2,Banner,0
+ARZXPP,5499,,sector-61,,,1,0,31-10-2014,7,3,,3,Married,2,-1,2,Mobile ad,0
+DUSLCP,7190,,sector-62,,,0,2,29-08-2014,10,5,,5,Married,1,0,1,Mobile ad,0
+IXZR?P,9788,,sector-29,,,0,0,30-07-2014,6,2,,4,Married,3,-1,0,Friend,0
+VWWX@M,9164,,sector-30,,,2,1,28-10-2014,10,3,,6,Unmarried,1,-1,1,Mobile ad,0
+DKSPDP,8059,,sector-31,,,1,1,26-10-2014,10,6,,1,Unmarried,4,1,0,Friend,1
+K=NL@@,3445,,sector-32,,,0,0,03-05-2014,1,3,,1,Married,1,2,0,Friend,1
+GSY<O<,5598,,sector-33,,,0,2,18-08-2014,1,3,,1,Married,0,3,0,Banner,1
+CI<WGT,4507,,sector-34,,,1,0,13-12-2014,6,5,,3,Married,2,1,1,Banner,1
+LXP@NC,5790,,sector-35,,,1,1,06-07-2014,7,1,,4,Unmarried,1,2,2,Banner,0
+ZIDPHQ,7540,,sector-36,,,1,0,23-05-2014,9,1,,1,Unmarried,2,-1,1,Friend,1
+CZQAZX,9078,,sector-37,,,2,2,12-01-2014,5,1,,6,Married,3,3,0,Social media,0
+O@NIXZ,8130,,sector-38,,,2,1,05-11-2014,8,5,,2,Married,1,-1,1,Friend,1
+YQGGZ?,4317,,sector-39,,,2,1,10-02-2014,6,1,,5,Married,4,0,0,Mobile ad,1
+PTPYPE,8480,,sector-40,,,0,1,12-06-2014,4,3,,4,Married,4,0,0,Friend,0
+#NAME?,6151,,sector-41,,,0,2,03-02-2014,10,1,,3,Unmarried,1,-1,0,Friend,1
+V@@JST,3390,,sector-42,,,2,2,14-04-2014,2,3,,4,Unmarried,4,2,2,Friend,0
+=QCT@Q,9157,,sector-43,,,1,2,21-10-2014,3,2,,6,Unmarried,3,3,2,Banner,0
+QMPSCK,5747,,sector-44,,,1,0,16-04-2014,8,2,,6,Married,4,-1,1,Banner,0
+CY?QPC,8624,,sector-45,,,1,0,31-05-2014,9,4,,6,Married,1,-1,0,others,0
+L@NEVI,4987,,sector-46,,,0,2,11-07-2014,2,5,,2,Unmarried,4,-1,1,others,0
+AAQVOW,3565,,sector-47,,,2,1,14-01-2014,10,2,,6,Married,2,-1,2,others,1
+NVNXKR,5523,,sector-48,,,0,1,09-07-2014,4,4,,1,Unmarried,2,0,2,Friend,1
+W<TTWO,3606,,sector-49,,,0,2,05-06-2014,6,2,,2,Unmarried,4,0,0,Banner,0
+HTT=GW,3790,,sector-50,,,1,1,25-07-2014,3,5,,3,Married,1,1,2,Mobile ad,0
+HBK>ST,8464,,sector-51,,,2,1,28-07-2014,7,1,,6,Married,3,2,2,Banner,0
+IP@J@C,4933,,sector-52,,,2,0,30-08-2014,7,2,,6,Unmarried,3,0,2,Banner,0
+I>FT<W,6825,,sector-53,,,0,2,28-02-2014,8,5,,2,Unmarried,1,-1,0,Friend,1
+@AAV>Q,8547,,sector-54,,,2,1,02-02-2014,4,6,,3,Married,3,2,0,Friend,0
+IEKCYF,5580,,sector-55,,,2,0,11-07-2014,3,4,,6,Married,4,1,2,Friend,1
+YNMJRR,5369,,sector-56,,,1,2,07-01-2014,9,4,,2,Unmarried,3,3,0,others,1
+KC<QG>,7389,,sector-57,,,2,2,08-07-2014,8,1,,3,Married,2,0,1,Banner,1
+BBTWCP,3301,,sector-58,,,0,2,08-10-2014,6,2,,1,Unmarried,3,3,0,others,0
+VXSLK=,7957,,sector-59,,,1,2,02-09-2014,1,6,,3,Married,1,-1,1,Friend,1
+XQQY>=,5525,,sector-60,,,0,0,05-11-2014,5,5,,6,Unmarried,1,2,0,Friend,1
+KKL@FX,6218,,sector-61,,,2,0,24-08-2014,4,3,,6,Unmarried,2,2,0,Friend,1
+B@DGQR,7268,,sector-62,,,2,2,15-12-2014,10,2,,4,Married,1,0,2,others,0
+?XCG<O,3186,,sector-63,,,0,1,04-05-2014,1,2,,3,Married,2,3,2,Banner,0
+UI=R<O,8973,,sector-64,,,0,2,29-10-2014,9,4,,6,Unmarried,0,1,2,Banner,0
+KOFGFZ,7911,,sector-65,,,1,0,31-03-2014,4,5,,1,Married,4,2,1,others,1
+LIPGZB,6021,,sector-66,,,2,2,09-10-2014,2,6,,1,Married,0,2,2,Friend,1
+?SLLMG,3383,,sector-67,,,1,0,02-06-2014,1,1,,5,Unmarried,4,0,0,Friend,1
+AMOHVZ,3889,,sector-68,,,2,2,27-06-2014,2,5,,2,Married,2,2,2,Friend,0
+QNGMBF,4167,,sector-69,,,0,1,24-06-2014,1,3,,2,Married,3,-1,2,Friend,0
+?XFO@L,4801,,sector-70,,,1,1,20-05-2014,1,3,,6,Unmarried,4,1,1,Banner,1
+#NAME?,4978,,sector-71,,,1,0,15-08-2014,1,1,,1,Unmarried,1,1,1,Mobile ad,1
+?GXKRH,5786,,sector-72,,,0,1,12-08-2014,7,4,,4,Unmarried,1,3,1,Mobile ad,1
+Q=WJMH,3035,,sector-73,,,1,2,23-06-2014,2,6,,2,Married,4,0,1,Friend,0
+MDDQAU,4908,,sector-74,,,2,2,13-09-2014,10,4,,5,Married,2,2,2,Mobile ad,1
+GOQICH,4872,,sector-75,,,2,0,06-08-2014,1,4,,5,Married,2,0,0,Friend,1
+W==<Z@,5125,,sector-76,,,2,2,20-09-2014,5,1,,6,Unmarried,0,1,0,Friend,1
+F=?NSM,5852,,sector-77,,,0,1,30-03-2014,9,1,,1,Unmarried,1,3,2,Banner,0
+J@LMSP,8226,,sector-78,,,0,2,17-08-2014,10,4,,1,Married,0,1,1,Banner,0
+MZFKBW,5991,,sector-79,,,2,1,11-08-2014,1,6,,2,Married,1,1,0,Banner,0
+O@ZHCG,7103,,sector-80,,,2,2,06-09-2014,6,5,,4,Married,2,1,1,Friend,0
+AU>DAB,8161,,sector-81,,,1,1,14-09-2014,10,6,,3,Married,2,-1,0,Social media,1
+XU@ZJI,4414,,sector-82,,,2,2,16-01-2014,9,1,,4,Unmarried,2,3,2,Social media,1
+G>DWCN,6286,,sector-83,,,0,0,13-07-2014,4,6,,2,Unmarried,3,0,1,Friend,1
+NY=PVI,5448,,sector-84,,,0,1,10-06-2014,6,1,,3,Married,2,1,2,Friend,1
+KJNHSC,7091,,sector-85,,,2,2,08-10-2014,2,1,,3,Married,4,3,1,Banner,1
+BAHKS<,3760,,sector-86,,,0,1,03-04-2014,9,1,,3,Married,3,0,1,Friend,1
+LQJQXG,3703,,sector-87,,,2,1,24-06-2014,5,5,,2,Unmarried,2,2,1,Friend,0
+GLBY>V,3158,,sector-88,,,1,1,27-02-2014,9,4,,1,Unmarried,4,0,0,Banner,1
+RRCTJA,8797,,sector-89,,,1,0,31-12-2014,9,6,,6,Married,0,-1,0,Mobile ad,0
+CBRNEW,3405,,sector-90,,,2,1,25-04-2014,2,5,,4,Married,4,2,1,Mobile ad,0
+NI=SOF,8516,,sector-91,,,0,1,18-10-2014,5,6,,1,Married,4,1,2,Friend,1
+P>HNUL,5855,,sector-92,,,1,0,24-11-2014,8,1,,6,Married,4,3,1,Mobile ad,1
+YOL=@P,8235,,sector-93,,,0,0,13-01-2014,3,2,,5,Unmarried,3,1,2,Friend,0
+QKRZP?,4991,,sector-94,,,2,1,31-10-2014,4,2,,4,Unmarried,3,0,0,Friend,1
+Q=??IF,11373,,sector-95,,,2,0,09-03-2014,8,6,,4,Unmarried,1,1,0,Banner,1
+GJJFLA,6955,,sector-96,,,0,2,09-04-2014,7,1,,6,Married,4,0,1,Banner,1
+GNYEEQ,23984,,sector-97,,,2,1,16-10-2014,9,1,,2,Married,2,2,0,Banner,0
+GHB>>@,4561,,sector-98,,,2,0,12-07-2014,6,4,,3,Married,1,-1,1,Friend,1
+FW?SL@,30630,,sector-99,,,0,0,04-05-2014,8,3,,6,Unmarried,2,3,2,Social media,1
+QBKRXM,23845,,sector-100,,,1,2,18-11-2014,8,6,,3,Unmarried,4,0,0,Social media,1
+@IL@NZ,4972,,sector-101,,,0,0,24-07-2014,10,2,,3,Married,4,3,2,Friend,1
+DAMLXY,16781,,sector-102,,,0,0,01-11-2014,2,3,,1,Married,2,-1,2,Friend,0
+OONVXU,34903,,sector-103,,,1,0,05-11-2014,3,4,,2,Married,0,1,1,Banner,0
+<ZUCQS,37475,,sector-104,,,0,1,27-07-2014,6,3,,3,Married,0,2,0,Social media,0
+GY>TZD,37720,,sector-105,,,1,0,19-10-2014,3,6,,4,Unmarried,0,-1,0,Social media,0
+DWLBSN,19686,,sector-106,,,1,2,30-01-2014,10,5,,2,Unmarried,3,0,2,Friend,1
+Q@WSJZ,30297,,sector-107,,,1,2,09-01-2014,2,1,,5,Unmarried,4,-1,1,Friend,1
+ZDPVQL,14894,,sector-108,,,0,0,09-05-2014,2,6,,4,Unmarried,2,3,0,Friend,1
+>KUBDJ,33166,,sector-109,,,0,2,11-04-2014,1,5,,3,Married,1,0,0,Banner,0
+MCJ?KT,39878,,sector-110,,,0,1,24-06-2014,7,4,,6,Unmarried,0,2,2,Social media,0
+INBJAZ,28044,,sector-111,,,0,2,21-08-2014,4,2,,2,Unmarried,1,2,2,others,0
+GP=DTS,34079,,sector-112,,,0,0,02-01-2014,2,3,,5,Unmarried,0,-1,1,Friend,0
+QJ>GVX,39412,,sector-113,,,2,1,05-10-2014,6,1,,3,Married,0,2,0,Banner,0
+ZKOP?B,12190,,sector-114,,,0,1,26-12-2014,6,4,,1,Married,1,0,0,Friend,1
+@CDCDY,3283,,sector-115,,,1,0,05-12-2014,1,4,,2,Unmarried,2,1,2,Friend,1
+LJAMS<,6587,,sector-116,,,0,1,23-03-2014,8,1,,3,Married,1,1,1,Banner,1
+AR?WCJ,26066,,sector-117,,,0,0,02-01-2014,6,6,,2,Unmarried,1,0,1,Mobile ad,0
+VFV@<D,27257,,sector-118,,,0,1,07-03-2014,2,1,,3,Unmarried,4,0,1,Mobile ad,1
+ENFNDH,31286,,sector-119,,,1,2,16-10-2014,4,2,,1,Married,0,2,1,Friend,1
+GY@AEL,21426,,sector-120,,,0,1,17-01-2014,2,5,,2,Married,0,2,0,Mobile ad,0
+JDD?ZS,9100,,sector-121,,,0,1,30-08-2014,2,1,,5,Unmarried,0,2,2,Friend,1
+<PRICY,11813,,sector-122,,,1,0,18-03-2014,6,2,,5,Unmarried,0,3,1,Friend,1
+CTMFOB,31319,,sector-123,,,1,1,14-03-2014,1,3,,6,Married,0,2,2,Banner,1
+VIVLO@,11463,,sector-124,,,2,1,07-09-2014,2,3,,5,Married,3,2,2,Banner,0
+<FEMBQ,7445,,sector-125,,,2,0,20-05-2014,7,5,,3,Unmarried,3,2,0,Banner,1
+WR=CIV,17191,,sector-126,,,1,1,30-08-2014,6,4,,2,Married,2,0,1,Friend,1
+VU>XDJ,31167,,sector-127,,,1,1,09-04-2014,7,4,,5,Unmarried,2,0,1,Social media,0
+G<<LV@,18183,,sector-128,,,2,1,21-02-2014,10,2,,2,Married,4,0,0,Friend,0
+Q<SMSC,24890,,sector-129,,,2,1,13-08-2014,1,1,,3,Unmarried,0,1,0,Friend,1
+D<DSL?,35138,,sector-130,,,2,0,30-05-2014,7,1,,1,Unmarried,3,0,0,Banner,1
+UDC=VW,23637,,sector-131,,,0,2,06-12-2014,4,1,,2,Married,0,3,2,Mobile ad,1
+JAS==D,3049,,sector-132,,,2,1,03-06-2014,4,3,,1,Married,0,0,1,Mobile ad,0
+E>NKY=,14956,,sector-133,,,2,0,07-09-2014,7,3,,6,Unmarried,2,1,1,Friend,0
+FCULGG,10975,,sector-134,,,2,2,28-03-2014,4,2,,3,Married,1,3,0,Mobile ad,0
+@VF=BT,20116,,sector-135,,,2,2,13-12-2014,10,6,,1,Married,3,2,1,Friend,0
+JMTOD@,19765,,sector-136,,,0,2,15-03-2014,10,6,,6,Unmarried,2,0,1,Friend,1
+#NAME?,12604,,sector-137,,,1,0,16-09-2014,3,4,,5,Married,3,3,0,Banner,0
+Y=@=RU,39194,,sector-138,,,1,0,19-05-2014,3,6,,3,Married,0,0,1,Banner,0
+UOWQEP,21438,,sector-139,,,0,0,04-10-2014,2,6,,2,Unmarried,3,2,2,Banner,1
+DWGCNC,8746,,sector-140,,,2,0,14-05-2014,6,6,,4,Unmarried,0,0,1,Friend,1
+I>=HJN,7150,,sector-141,,,2,2,25-05-2014,6,5,,4,Unmarried,2,2,2,Social media,0
+U@HLGX,9841,,sector-142,,,1,2,29-04-2014,6,1,,6,Married,3,-1,0,Social media,0
+D>JNA<,4806,,sector-27,,,0,2,02-03-2014,6,2,,6,Married,2,0,0,Friend,0
+RRTXJK,8697,,sector-28,,,0,0,30-07-2014,9,4,,1,Married,3,1,1,Friend,1
+CYTBEY,4533,,sector-29,,,2,0,16-07-2014,10,2,,5,Unmarried,3,2,2,Banner,1
+#NAME?,6869,,sector-30,,,0,2,05-03-2014,6,4,,2,Unmarried,1,3,1,others,0
+U=AIGN,4105,,sector-31,,,2,1,10-11-2014,6,1,,1,Married,0,1,1,Friend,0
+#NAME?,6482,,sector-32,,,0,2,13-11-2014,10,6,,4,Married,0,-1,0,Banner,1
+CODV<L,7741,,sector-33,,,1,0,30-01-2014,4,2,,6,Married,4,2,1,Friend,1
+FT=PLL,6781,,sector-34,,,0,1,08-03-2014,2,4,,6,Married,3,2,0,Friend,0
+KG=EGW,8027,,sector-13,,,2,1,31-12-2014,1,5,,4,Unmarried,2,3,1,Banner,0
+@NEYOC,7550,,sector-12,,,2,1,23-08-2014,10,3,,3,Unmarried,3,1,0,Mobile ad,1
+XBFZ@K,4283,,sector-14,,,0,1,17-09-2014,5,4,,1,,2,0,0,Mobile ad,1
+KTYVV=,8383,,sector-2,,,1,2,03-09-2014,8,2,,6,Married,0,3,1,Friend,1
+I=DV<Z,5476,,sector-23,,,2,1,23-10-2014,10,6,,2,Married,1,-1,1,Mobile ad,1
+TSOJH?,5156,,sector-14,,,2,1,30-12-2014,4,4,,1,Married,2,3,0,Friend,0
+OQZ<WG,5544,,sector-21,,,2,0,30-06-2014,10,1,,1,Unmarried,3,3,1,Friend,0
+U>>WRF,4046,,sector-14,,,1,1,14-12-2014,9,6,,5,Unmarried,4,0,2,Banner,1
+CWBMC?,8634,,sector-2,,,2,2,05-12-2014,2,2,,6,Married,4,0,1,Banner,0
+PRTE<G,6850,,sector-14,,,1,1,11-05-2014,6,5,,5,Married,4,-1,2,Banner,0
+ISIYCA,8987,,sector-12,,,2,1,28-10-2014,2,4,,6,Married,1,-1,0,Friend,1
+UFFPRC,8648,,sector-21,,,0,1,06-09-2014,1,4,,3,Married,3,0,2,Social media,0
+VBTYL<,4465,,sector-2,,,2,0,23-01-2014,5,2,,4,Unmarried,2,0,2,Friend,0
+WNRR?X,8016,,sector-13,,,0,0,07-06-2014,2,2,,1,Unmarried,3,-1,1,Mobile ad,0
+L>G>AY,7302,,sector-2,,,0,0,28-03-2014,5,6,,1,,3,1,0,Friend,0
+EEYPAG,6111,,sector-11,,,0,1,04-04-2014,9,1,,4,,2,2,1,Friend,1
+XOCEBW,8667,,sector-2,,,0,1,19-09-2014,7,6,,2,,2,-1,0,Friend,1
+BKNQMY,7459,,sector-1,,,2,0,17-02-2014,2,2,,6,,4,1,2,Banner,0
+OBHDVH,4194,,sector-21,,,2,1,22-11-2014,6,5,,4,,1,3,1,Social media,1
+WSKXRM,6245,,sector-21,,,0,0,22-02-2014,6,5,,2,,1,3,0,others,1
+HO@>RW,8748,,sector-22,,,2,1,08-11-2014,6,2,,6,,0,2,1,Friend,0
+EDZN<S,8541,,sector-23,,,2,1,06-07-2014,2,2,,3,Married,4,0,2,Banner,1
+Y?GWDG,6156,,sector-24,,,0,2,03-02-2014,9,2,,2,Married,0,3,2,Friend,1
+MZAWDX,8151,,sector-25,,,2,0,16-02-2014,3,4,,2,Unmarried,3,-1,2,Friend,0
+PSHMHT,4909,,sector-26,,,1,0,03-09-2014,9,2,,5,Married,0,-1,2,Banner,0
+ICISZG,8502,,sector-27,,,1,2,10-08-2014,4,1,,3,Unmarried,1,0,0,Mobile ad,1
+YMMJJV,6911,,sector-28,,,0,1,28-01-2014,7,6,,2,Married,4,-1,2,Mobile ad,0
+OTWYNY,8312,,sector-29,,,0,0,19-11-2014,10,3,,1,Unmarried,0,1,2,Friend,1
+LAHYQ<,8574,,sector-30,,,1,1,25-07-2014,1,4,,3,Unmarried,3,0,2,Mobile ad,0
+DFYDAA,4200,,sector-31,,,1,2,02-06-2014,2,4,,3,Unmarried,2,0,1,Friend,1
+SZV=SC,4014,,sector-32,,,0,2,13-07-2014,7,6,,2,Married,2,2,0,Friend,0
+IISXQS,5780,,sector-33,,,1,1,24-10-2014,8,1,,1,Married,4,1,1,Banner,1
+BMITSF,6356,,sector-34,,,2,1,01-05-2014,7,3,,2,Unmarried,4,1,2,Banner,0
+LIUBUH,7614,,sector-25,,,2,0,05-11-2014,5,1,,3,Married,4,3,2,Banner,0
+JJY@I?,8793,,sector-26,,,1,0,30-10-2014,5,4,,6,Unmarried,2,-1,0,Friend,1
+CSEYWZ,7214,,sector-27,,,2,1,16-12-2014,9,5,,2,Unmarried,3,0,2,Social media,0
+VYVROY,8137,,sector-28,,,0,1,30-09-2014,5,6,,5,Married,4,1,0,Friend,0
+WUIM>O,5451,,sector-29,,,1,2,27-04-2014,9,5,,5,Married,3,0,1,Mobile ad,1
+OL?W=P,6448,,sector-30,,,0,0,04-10-2014,4,2,,3,Unmarried,0,-1,1,Friend,0
+BOAIHO,4656,,sector-31,,,1,2,08-01-2014,3,4,,1,Unmarried,2,-1,0,Friend,1
+B>ZK?E,8552,,sector-32,,,2,0,10-10-2014,10,1,,1,Married,2,0,2,Friend,1
+BVAXTM,8411,,sector-33,,,0,0,20-12-2014,3,5,,4,Married,0,1,2,Mobile ad,0
+YWRHY=,7411,,sector-34,,,0,1,19-10-2014,5,3,,3,Unmarried,1,2,2,Friend,0
+UF<EAF,6094,,sector-29,,,2,1,05-08-2014,1,1,,3,Married,0,2,2,Friend,0
+SNC=J=,4175,,sector-30,,,1,2,30-11-2014,3,4,,4,Unmarried,0,3,1,Banner,0
+IMPP?I,6472,,sector-31,,,1,1,03-04-2014,5,2,,5,Married,1,-1,1,Social media,0
+IMWP?=,4467,,sector-32,,,1,2,12-01-2014,1,6,,3,Unmarried,4,1,1,others,1
+R=SKS?,4462,,sector-33,,,1,1,30-04-2014,7,4,,5,Unmarried,4,1,1,Friend,1
+@QV@PG,4201,,sector-34,,,1,1,01-03-2014,1,1,,3,Married,4,0,2,Banner,0
+>ZGKNQ,8006,,sector-35,,,0,2,25-03-2014,1,6,,2,Married,0,2,0,Friend,1
+NBNOFE,5054,,sector-36,,,2,1,12-11-2014,8,4,,5,Unmarried,3,2,2,Friend,0
+GNESU@,4849,,sector-37,,,2,1,04-11-2014,6,1,,2,Married,4,1,2,Banner,1
+UOHHP>,8479,,sector-38,,,2,1,23-10-2014,10,3,,3,Married,4,-1,1,Mobile ad,1
+XG=Y=?,7746,,sector-1,,,1,0,24-03-2014,6,1,,3,Unmarried,3,-1,0,Mobile ad,1
+V<?VHN,8239,,sector-12,,,2,0,06-05-2014,8,2,,1,Married,1,-1,1,Friend,0
+A?DRCC,4466,,sector-1,,,0,2,17-05-2014,7,6,,6,Married,1,-1,1,Mobile ad,0
+BGNPAU,8820,,sector-12,,,1,0,13-10-2014,7,3,,4,Unmarried,1,3,2,Friend,1
+QSRR?T,5870,,sector-13,,,2,0,09-02-2014,4,4,,1,Unmarried,2,-1,1,Friend,1
+X?L?=X,8645,,sector-12,,,2,0,07-05-2014,4,1,,1,Unmarried,4,0,1,Banner,1
+KVDKW>,8331,,sector-14,,,1,2,17-07-2014,5,2,,5,Married,3,-1,1,Banner,1
+QLL@RJ,4141,,sector-2,,,1,0,22-11-2014,5,3,,6,Married,1,-1,2,Banner,0
+GURGHY,4532,,sector-23,,,2,2,16-07-2014,4,2,,5,Married,1,3,1,Friend,0
+TNFCM>,4133,,sector-14,,,2,2,01-04-2014,5,2,,1,Unmarried,3,3,2,Social media,0
+<ZKUMN,7767,,sector-21,,,1,2,03-01-2014,2,6,,3,Unmarried,0,3,0,Friend,1
+GDDNW<,5639,,sector-14,,,2,2,15-07-2014,9,4,,6,Married,1,-1,2,Friend,1
+KTVZBT,8117,,sector-2,,,1,0,07-01-2014,8,5,,6,Married,0,2,1,Banner,0
+QM=SNF,7804,,sector-14,,,1,0,09-09-2014,7,2,,6,Married,1,2,0,Mobile ad,0
+?DNSK<,7800,,sector-12,,,2,0,08-09-2014,4,3,,4,Married,3,0,2,Mobile ad,0
+OJLGKO,5360,,sector-21,,,0,2,11-03-2014,4,5,,3,Unmarried,1,3,2,Friend,0
+OHGGBR,7438,,sector-2,,,2,2,27-09-2014,9,4,,2,Unmarried,4,1,0,Mobile ad,1
+ABQGO>,4880,,sector-13,,,1,2,08-07-2014,10,5,,5,,4,2,1,Friend,0
+FPMR?G,4676,,sector-2,,,1,0,23-10-2014,3,4,,6,,3,-1,0,Friend,0
+VHULX=,8718,,sector-11,,,2,0,26-03-2014,8,4,,4,Married,3,-1,0,Banner,0
+KLH??L,7467,,sector-2,,,2,1,06-04-2014,1,3,,4,Married,3,-1,0,Banner,1
+DI<TMH,5982,,sector-1,,,0,2,30-06-2014,8,3,,2,Unmarried,3,3,2,Banner,1
+ZPGBHT,4199,,sector-21,,,1,1,17-09-2014,7,4,,4,Married,0,1,2,Friend,0
+SFZSRR,4382,,sector-22,,,1,1,19-12-2014,10,5,,5,Unmarried,2,1,2,Social media,0
+XADQVV,7990,,sector-23,,,1,2,08-12-2014,9,1,,4,Married,2,0,1,Social media,0
+@LWMKM,5186,,sector-24,,,0,1,11-11-2014,7,3,,4,Unmarried,1,0,1,Friend,0
+EM?PTJ,6835,,sector-25,,,1,1,02-07-2014,7,6,,5,Unmarried,0,3,0,Friend,0
+A>AFZS,7208,,sector-26,,,2,1,16-10-2014,9,5,,1,Unmarried,1,3,1,Banner,0
+HW?QED,8428,,sector-27,,,1,1,11-08-2014,3,5,,1,Married,0,0,2,Banner,1
+>CXTKN,6722,,sector-28,,,2,0,01-06-2014,5,1,,3,Married,3,1,0,Banner,1
+JBGEEF,4653,,sector-29,,,2,2,16-03-2014,2,6,,1,Unmarried,3,2,2,others,1
+@PJDD@,7316,,sector-30,,,2,2,24-10-2014,5,2,,6,Married,3,2,2,others,0
+T<ZY=R,7152,,sector-31,,,2,2,06-12-2014,1,5,,4,Unmarried,2,-1,0,others,0
+@A@D?N,6930,,sector-32,,,1,2,22-06-2014,2,6,,4,Unmarried,0,1,0,Friend,0
+DYKEQP,8213,,sector-33,,,1,2,20-06-2014,8,4,,2,,3,2,0,Banner,1
+PITAQF,7059,,sector-34,,,2,1,29-12-2014,7,4,,2,Married,3,3,1,Mobile ad,0
+GL?LSL,5244,,sector-35,,,1,2,10-02-2014,6,3,,1,Married,4,3,1,Banner,1
+VQRVWV,4365,,sector-36,,,1,1,19-04-2014,2,5,,3,Unmarried,4,1,2,Banner,0
+>EPYIK,5440,,sector-37,,,0,0,01-01-2014,1,1,,6,Married,4,1,1,Friend,0
+EYLDTP,7006,,sector-38,,,0,2,27-01-2014,9,5,,3,Unmarried,2,0,0,Friend,0
+XVV?AG,7809,,sector-1,,,0,2,29-08-2014,10,1,,3,Married,1,3,2,Friend,0
+TFA>TT,7821,,sector-2,,,1,1,24-03-2014,7,6,,6,Unmarried,4,0,0,others,1
+@BKNXL,5262,,sector-1,,,1,1,03-07-2014,9,3,,6,Unmarried,0,0,0,Banner,0
+EJZXWF,7402,,sector-2,,,1,0,16-07-2014,7,5,,5,Unmarried,2,0,1,others,1
+FQXDJT,6997,,sector-1,,,2,0,02-04-2014,1,4,,4,Married,3,2,2,Friend,1
+YKYHSC,7931,,sector-2,,,2,0,15-06-2014,8,1,,1,Married,0,1,0,Friend,0
+?<EIKX,5417,,sector-1,,,1,1,01-03-2014,1,2,,6,Unmarried,3,2,1,Friend,1
+<BIYXU,8436,,sector-12,,,0,1,25-01-2014,4,1,,6,Married,4,-1,1,others,1
+UKAZMR,7429,,sector-14,,,1,0,29-03-2014,8,1,,1,Unmarried,1,-1,0,Banner,1
+SOBITW,4754,,sector-12,,,0,1,28-11-2014,7,1,,5,Unmarried,2,0,1,Banner,1
+RL>EXZ,8917,,sector-1,,,1,1,12-11-2014,8,1,,1,Unmarried,1,2,1,others,0
+XJ>@UR,8468,,sector-12,,,0,0,17-09-2014,4,3,,4,Married,4,2,1,Friend,0
+?JTKWK,8453,,sector-1,,,2,1,03-05-2014,8,6,,5,Married,2,2,0,Friend,0
+MYU<LX,5555,,sector-12,,,2,1,17-08-2014,7,6,,3,Unmarried,3,-1,0,Friend,1
+AONYL>,6723,,sector-13,,,1,1,22-08-2014,9,3,,3,Married,0,0,2,Friend,1
+X@GDIK,6771,,sector-12,,,0,0,09-12-2014,1,2,,6,Unmarried,0,0,1,Banner,0
+CO>LOT,8057,,sector-14,,,0,0,03-12-2014,5,1,,6,Unmarried,4,2,1,Mobile ad,1
+L?XPZR,5545,,sector-2,,,1,0,13-06-2014,8,6,,1,Married,3,3,2,Mobile ad,1
+<XAMWV,6679,,sector-23,,,1,0,28-03-2014,3,1,,1,Married,2,-1,2,Friend,1
+CGY?QB,7847,,sector-14,,,1,0,05-07-2014,3,1,,2,Unmarried,0,3,2,Mobile ad,0
+@ASOKT,5336,,sector-21,,,2,0,12-10-2014,6,3,,2,Unmarried,4,0,0,Friend,1
+VLOI=J,4518,,sector-14,,,2,1,13-09-2014,2,2,,2,Married,2,3,0,Friend,1
+GI>GP<,5309,,sector-2,,,1,1,14-01-2014,2,5,,4,Married,3,3,1,Banner,0
+CFKFJC,5636,,sector-14,,,0,2,26-04-2014,6,1,,1,Unmarried,1,0,0,Banner,0
+LUOW?E,7772,,sector-12,,,1,2,16-07-2014,9,4,,2,Married,0,3,1,Banner,1
+CBMA?G,7894,,sector-21,,,0,2,29-06-2014,6,5,,1,Unmarried,3,-1,1,Friend,1
+JMHHSJ,4723,,sector-2,,,1,2,13-01-2014,10,4,,3,Married,2,0,1,Social media,1
+JTNGES,8065,,sector-13,,,0,0,29-09-2014,3,3,,5,Unmarried,2,3,2,Social media,0
+ELGYQN,4133,,sector-11,,,1,1,08-03-2014,8,4,,5,Unmarried,0,3,0,Friend,1
+PKKVYS,6086,,sector-20,,,2,1,21-12-2014,4,5,,2,Married,0,3,2,Friend,0
+NK@Y?D,8925,,sector-11,,,1,1,08-10-2014,10,3,,1,Married,2,-1,0,Banner,0
+FB?MTK,7400,,sector-2,,,1,1,06-08-2014,10,4,,5,Unmarried,2,3,1,Friend,0
+TCRTYV,6095,,sector-14,,,1,0,29-05-2014,2,4,,1,Married,3,1,1,Friend,1
+BQIIQW,4193,,sector-1,,,1,2,25-03-2014,10,5,,3,Married,0,0,0,Banner,1
+BYDVYC,6662,,sector-12,,,2,0,24-09-2014,4,2,,5,Unmarried,0,-1,1,Mobile ad,0
+BCC@ZI,5457,,sector-1,,,2,0,20-01-2014,1,3,,5,Married,4,3,1,Mobile ad,0
+AIGQJJ,4498,,sector-12,,,1,1,25-09-2014,4,6,,1,Married,0,3,2,Friend,1
+D>OXYH,7012,,sector-13,,,2,1,13-06-2014,2,1,,2,Unmarried,3,2,1,Mobile ad,0
+IYQK=?,8252,,sector-12,,,1,0,24-09-2014,9,2,,1,Unmarried,2,0,2,Friend,1
+>?QZO<,4241,,sector-14,,,1,2,12-04-2014,5,5,,1,Unmarried,0,3,0,Friend,0
+T<TWYJ,4865,,sector-2,,,1,1,10-10-2014,5,3,,4,Married,2,3,1,Banner,1
+EHPZ=M,5903,,sector-23,,,1,1,03-02-2014,3,5,,2,Married,1,3,0,Banner,0
+R@HDD>,7747,,sector-14,,,2,1,07-01-2014,2,4,,6,Married,2,2,0,Banner,1
+K>KRC?,5928,,sector-21,,,1,2,20-06-2014,5,4,,6,Unmarried,4,1,0,Friend,1
+FMYVMT,8126,,sector-14,,,1,1,30-05-2014,2,1,,3,Unmarried,1,2,1,Social media,1
+L<?TWN,5371,,sector-2,,,1,0,05-02-2014,7,5,,2,Married,0,1,1,Social media,1
+SGUGRK,4381,,sector-14,,,2,2,30-06-2014,9,1,,5,Married,4,0,2,Friend,1
+AKRORR,8979,,sector-12,,,1,1,18-02-2014,8,3,,2,Married,4,0,0,Friend,0
+WRGXQV,5119,,sector-21,,,2,2,09-03-2014,6,1,,4,Married,3,3,0,Banner,1
+JFBWRI,5690,,sector-2,,,2,0,03-02-2014,8,4,,6,Unmarried,0,1,2,Friend,1
+N@H@WV,7540,,sector-13,,,0,0,06-02-2014,4,3,,4,Unmarried,2,3,0,Friend,0
+VO?XWK,8660,,sector-14,,,0,2,07-05-2014,10,4,,3,,0,1,0,Banner,1
+KHLAEH,5856,,sector-31,,,0,1,10-07-2014,5,4,,4,,4,3,0,Mobile ad,1
+S?Q=TX,4789,,sector-32,,,0,2,17-09-2014,5,3,,5,,3,0,1,Mobile ad,1
+WS>MJL,8950,,sector-33,,,2,0,19-12-2014,7,5,,3,,0,2,1,Friend,1
+<QEDLD,7069,,sector-34,,,2,1,08-01-2014,5,6,,1,,0,3,2,Mobile ad,1
+LFDR@@,7307,,sector-35,,,0,1,03-05-2014,10,5,,5,,4,1,1,Friend,0
+R<P>CQ,8391,,sector-36,,,1,0,31-05-2014,6,5,,1,,4,-1,2,Friend,1
+FCMFSC,5321,,sector-37,,,1,2,09-05-2014,1,1,,1,,3,3,2,Banner,1
+VMFHNV,5167,,sector-38,,,1,2,24-11-2014,9,1,,5,,2,0,0,Banner,0
+=QKP>@,8593,,sector-39,,,0,1,10-08-2014,2,4,,1,,2,3,1,Banner,1
+LF?RDV,6529,,sector-40,,,2,1,13-10-2014,3,4,,4,,3,-1,2,Friend,0
+I?S=RU,5034,,sector-41,,,2,1,01-04-2014,2,2,,1,,2,1,0,Social media,1
+UZOYBE,6292,,sector-1,,,0,0,28-12-2014,2,1,,5,,1,2,2,Social media,0
+MKFOUL,4190,,sector-2,,,2,0,03-08-2014,5,2,,2,,4,1,0,Friend,0
+SNQCFP,5209,,sector-1,,,0,2,02-01-2014,2,5,,1,,2,1,0,Friend,1
+@S=OEL,8805,,sector-2,,,2,2,12-09-2014,7,6,,2,,3,-1,2,Banner,1
+NV?QM>,7932,,sector-1,,,2,1,07-09-2014,9,5,,5,,0,0,0,Friend,1
+S>UV>>,6041,,sector-12,,,1,2,15-09-2014,3,2,,3,,1,2,0,Friend,1
+>FFZUX,7462,,sector-14,,,0,2,05-11-2014,4,6,,5,,4,1,2,Banner,0
+GGOXKS,4835,,sector-12,,,0,1,03-10-2014,4,1,,2,Married,2,1,2,Mobile ad,0
+PKYESX,5140,,sector-11,,,2,1,16-02-2014,3,5,,4,Married,4,3,1,Mobile ad,1
+CV@JWT,5606,,sector-20,,,0,2,24-01-2014,9,1,,6,Unmarried,3,3,0,Friend,1
+>@A=BH,8607,,sector-11,,,1,0,19-10-2014,1,1,,4,Married,3,3,2,Mobile ad,0
+GWFPIH,8759,,sector-2,,,1,2,16-07-2014,4,1,,3,Unmarried,2,-1,1,Friend,1
+N@DUYQ,7410,,sector-14,,,0,2,06-07-2014,3,4,,1,,0,1,2,Friend,0
+AGUR?E,6753,,sector-15,,,2,2,08-11-2014,7,2,,3,Married,1,0,0,Banner,0
+GRQBCI,8568,,sector-16,,,2,2,22-12-2014,7,1,,6,Married,3,1,1,Banner,1
+SATX>E,4407,,sector-17,,,0,0,09-02-2014,6,2,,3,Unmarried,0,3,2,Banner,0
+WAD?B@,6773,,sector-18,,,0,2,03-04-2014,4,5,,2,Married,4,1,2,Friend,1
+UNUFEP,8049,,sector-19,,,2,2,21-10-2014,2,6,,5,Unmarried,4,2,1,Social media,0
+HMFEUN,6463,,sector-20,,,0,0,09-06-2014,8,5,,5,,0,0,1,Social media,1
+M=NPKK,5011,,sector-21,,,0,2,07-05-2014,6,4,,2,,1,-1,1,Friend,0
+VENABU,5899,,sector-22,,,0,0,03-09-2014,9,4,,6,Married,2,3,2,Friend,1
+QRDKVR,4663,,sector-23,,,2,2,28-12-2014,5,6,,2,Married,0,-1,1,Banner,0
+FRGCMD,4427,,sector-24,,,2,2,15-03-2014,6,3,,6,Unmarried,3,2,0,others,0
+SA?RRV,6934,,sector-25,,,0,0,21-08-2014,8,3,,5,Married,0,-1,2,Friend,0
+RBGF=O,8528,,sector-26,,,1,0,14-06-2014,3,6,,5,Unmarried,2,0,0,Banner,0
+UO?GGG,5258,,sector-27,,,0,1,19-12-2014,3,1,,3,,3,2,1,Mobile ad,0
+EVW=NM,8708,,sector-28,,,1,0,22-01-2014,5,2,,2,,0,2,0,Banner,1
+Q=@SG?,7279,,sector-29,,,0,1,25-09-2014,3,3,,1,,1,3,1,Banner,1
+<RPI@A,6673,,sector-30,,,2,0,10-08-2014,9,1,,4,,0,-1,0,Friend,1
+IHUMYQ,6590,,sector-31,,,1,0,16-01-2014,10,2,,5,,0,0,0,Friend,0
+OS=CLI,8843,,sector-32,,,1,2,02-04-2014,8,1,,3,,3,-1,0,Friend,0
+?MIUIZ,6155,,sector-33,,,0,1,03-04-2014,4,5,,3,,1,-1,0,others,0
+JLQSYS,7709,,sector-34,,,0,0,18-05-2014,10,2,,3,,1,2,0,Banner,1
+W<L@OG,7371,,sector-35,,,1,1,20-02-2014,6,5,,6,Married,4,-1,2,others,1
+CGQBRE,7621,,sector-36,,,1,0,16-12-2014,5,5,,4,Married,2,2,0,Friend,1
+@BJGSK,5617,,sector-37,,,2,1,30-12-2014,3,6,,5,Unmarried,3,3,2,Friend,1
+PUG?N?,5523,,sector-38,,,1,1,24-06-2014,10,6,,6,Married,1,2,0,Friend,1
+ELP@I<,4242,,sector-39,,,0,0,18-01-2014,1,2,,1,Unmarried,4,-1,2,others,0
+<UBIMQ,7986,,sector-40,,,0,2,10-06-2014,6,4,,3,,3,0,1,Banner,1
+QYUXPU,4242,,sector-41,,,1,2,12-11-2014,1,4,,5,,3,3,0,Banner,0
+ZWE?V>,4791,,sector-42,,,0,2,04-04-2014,6,6,,6,,3,1,1,others,1
+RFMLCQ,6171,,sector-43,,,2,2,21-02-2014,9,2,,6,,0,-1,2,Friend,0
+NOKLA@,7241,,sector-44,,,2,2,13-06-2014,6,1,,1,,0,1,1,Friend,1
+CACWAX,7879,,sector-45,,,2,1,28-12-2014,6,4,,5,,1,1,1,Friend,1
+CLGU@I,4144,,sector-2,,,2,0,25-01-2014,1,6,,2,Married,1,-1,1,others,1
+J>S>DG,7057,,sector-13,,,0,0,17-07-2014,8,5,,1,Married,2,0,0,Banner,0
+JJUUCZ,6305,,sector-14,,,0,0,08-08-2014,4,3,,3,Unmarried,0,-1,1,others,1
+H>QJC=,4876,,sector-31,,,1,1,23-11-2014,4,2,,5,Married,0,-1,0,Friend,1
+LFSN>F,4252,,sector-32,,,1,0,13-10-2014,9,2,,1,Unmarried,2,2,0,Friend,1
+W>>M<I,8597,,sector-33,,,0,0,23-04-2014,10,5,,6,,2,2,1,Friend,0
+XKKYQZ,4326,,sector-34,,,2,1,12-11-2014,9,1,,4,,4,3,1,others,0
+LRK@@G,4634,,sector-35,,,1,0,12-06-2014,10,1,,4,,1,0,2,Banner,1
+HAQEOR,6962,,sector-36,,,2,0,27-03-2014,9,6,,5,,1,3,1,Banner,0
+PMLEQS,8869,,sector-37,,,1,1,14-02-2014,6,5,,6,,0,-1,2,others,0
+ZI?TNF,6829,,sector-38,,,2,2,10-12-2014,6,2,,6,Married,2,2,2,Friend,0
+XF?NLK,8321,,sector-39,,,1,2,15-06-2014,8,5,,3,Married,4,3,2,Friend,0
+E?HSW?,5239,,sector-58,,,2,0,18-04-2014,7,3,,5,Unmarried,0,3,1,Friend,1
+YADKH<,6528,,sector-59,,,1,2,02-02-2014,3,1,,1,Married,2,1,1,Friend,1
+?PL>KR,5844,,sector-60,,,0,0,09-06-2014,5,1,,5,Unmarried,2,2,0,Banner,1
+>?GVGI,7001,,sector-61,,,1,1,19-03-2014,3,3,,2,Married,3,0,2,Mobile ad,0
+@IQBEX,4881,,sector-62,,,0,1,10-04-2014,4,2,,6,Unmarried,2,1,0,Mobile ad,1
+XQGB?F,5565,,sector-63,,,2,2,23-09-2014,5,6,,4,Unmarried,3,3,0,Friend,0
+S<VQN?,5180,,sector-64,,,2,0,26-03-2014,2,3,,5,Unmarried,2,-1,1,Mobile ad,0
+?DT@DU,5655,,sector-65,,,2,0,29-05-2014,10,4,,1,Married,1,2,0,Friend,0
+PALAHG,6068,,sector-66,,,2,1,27-04-2014,8,6,,1,Married,2,0,0,Friend,1
+RG=NRD,8586,,sector-67,,,0,1,02-01-2014,2,4,,1,Unmarried,3,3,2,Banner,1
+#NAME?,5078,,sector-68,,,1,0,24-12-2014,10,3,,5,Married,2,-1,0,Banner,0
+@AU?BO,7029,,sector-2,,,1,1,27-06-2014,9,6,,1,Unmarried,3,2,0,Friend,0
+=PI?R=,4777,,sector-13,,,1,2,05-12-2014,3,2,,6,Unmarried,4,1,1,others,1
+TKKAWW,8107,,sector-14,,,0,0,21-09-2014,10,5,,2,Married,3,0,0,Banner,0
+VZWYN=,4069,,sector-31,,,0,2,21-08-2014,2,2,,6,Married,1,3,2,others,0
+W<AYBM,8550,,sector-32,,,0,1,04-08-2014,5,6,,6,Unmarried,4,0,2,Friend,1
+TI@VOI,6770,,sector-33,,,2,1,23-08-2014,2,3,,3,Unmarried,1,3,2,Friend,1
+VPOWYT,8828,,sector-34,,,2,0,08-04-2014,5,3,,4,Married,2,2,1,Friend,0
+TWEE@V,8377,,sector-35,,,1,2,21-06-2014,9,3,,5,Married,0,1,1,others,1
+SV<>L@,5901,,sector-36,,,0,2,02-07-2014,9,1,,3,Unmarried,3,1,0,Banner,0
+WQE<<B,7677,,sector-37,,,1,0,02-02-2014,8,5,,5,Married,0,-1,2,Banner,0
+RSEM@O,5434,,sector-38,,,2,1,30-03-2014,9,3,,5,Unmarried,2,3,1,others,0
+<UCCOJ,5063,,sector-39,,,0,0,20-09-2014,9,6,,4,Married,2,2,0,Friend,1
+<BOG>X,5953,,sector-40,,,1,0,22-08-2014,8,5,,4,Unmarried,0,1,1,Friend,0
+NZ?XGD,4083,,sector-41,,,1,0,04-10-2014,5,6,,4,Unmarried,2,3,0,Friend,0
+MOVR?A,7066,,sector-42,,,0,0,27-03-2014,1,2,,6,Married,1,1,2,Friend,0
+A>RLUB,8126,,sector-43,,,0,1,22-11-2014,4,3,,2,Married,2,3,2,Banner,0
+XVEMXM,4095,,sector-44,,,1,1,26-02-2014,9,6,,3,Unmarried,0,3,2,Mobile ad,0
+KFGREY,8756,,sector-45,,,2,2,16-07-2014,5,5,,3,Married,4,3,1,Mobile ad,1
+@S?>CA,6367,,sector-46,,,0,0,12-06-2014,2,6,,1,Married,1,3,2,Friend,1
+NNRJ?P,6277,,sector-47,,,2,0,03-01-2014,3,2,,3,Unmarried,0,2,0,Mobile ad,1
+CXDEDE,4095,,sector-48,,,1,0,01-08-2014,7,5,,5,Married,1,2,2,Friend,0
+<HZE@P,6631,,sector-49,,,0,1,13-01-2014,7,5,,4,Married,1,-1,0,Friend,0
+CJWHT>,6650,,sector-32,,,0,0,18-02-2014,10,3,,1,Unmarried,2,0,0,Banner,1
+><VGOX,6062,,sector-33,,,1,2,10-11-2014,3,4,,3,Unmarried,4,2,2,Banner,0
+SYQL?@,6999,,sector-34,,,1,2,15-11-2014,2,1,,5,Unmarried,1,2,1,Banner,1
+QNJPE@,6602,,sector-35,,,0,1,05-01-2014,7,5,,4,Married,2,2,1,Banner,1
+KC@YIG,6221,,sector-36,,,0,1,14-03-2014,9,2,,4,Married,4,2,2,Friend,1
+IW?=AZ,4488,,sector-37,,,2,0,22-05-2014,9,5,,5,Married,0,-1,1,Social media,1
+QTOZMF,5710,,sector-38,,,0,0,15-10-2014,2,4,,3,Unmarried,0,1,2,Social media,1
+X<TXSW,6923,,sector-39,,,2,2,25-11-2014,4,5,,6,Unmarried,4,1,0,Friend,0
+VTWHPW,7896,,sector-40,,,2,1,21-04-2014,8,2,,1,Married,2,0,1,Friend,0
+STIKN>,7798,,sector-41,,,2,0,12-09-2014,8,6,,3,Married,3,1,2,Banner,1
+ON@HPQ,4789,,sector-42,,,1,2,17-04-2014,10,3,,4,Married,0,2,0,Banner,0
+NSRIEC,6777,,sector-43,,,2,0,29-04-2014,8,3,,2,Married,3,0,2,others,0
+QUFQSN,8453,,sector-38,,,2,2,17-08-2014,8,5,,6,Unmarried,2,2,0,others,0
+IMD>@K,7334,,sector-2,,,2,0,10-07-2014,4,2,,4,Unmarried,2,2,2,others,1
+>CY?MF,4465,,sector-13,,,2,1,23-01-2014,1,2,,1,,0,2,2,Friend,0
+PW@QEB,5472,,sector-14,,,0,2,19-11-2014,9,4,,4,Married,1,1,0,Banner,0
+>HQB<@,4152,,sector-31,,,2,1,08-11-2014,9,5,,3,Married,4,-1,2,Mobile ad,0
+NMACBX,4537,,sector-32,,,1,2,04-10-2014,2,3,,2,Unmarried,2,-1,0,Banner,0
+YLMTTQ,5277,,sector-33,,,1,0,18-05-2014,5,5,,1,Married,4,0,0,Banner,1
+SFVEKJ,5794,,sector-34,,,2,1,28-04-2014,10,1,,5,Unmarried,3,-1,0,Friend,0
+IMPIIK,8136,,sector-35,,,0,1,04-01-2014,6,4,,6,,3,-1,0,Friend,1
+Z@RUHI,7193,,sector-36,,,0,1,26-04-2014,9,1,,5,,3,0,2,Friend,0
+HOKWD=,4978,,sector-37,,,0,0,20-07-2014,9,5,,1,Married,4,3,0,others,0
+BZMBT=,6848,,sector-38,,,0,2,24-01-2014,4,2,,5,Married,3,2,2,Banner,0
+NMIRVD,8165,,sector-39,,,0,1,20-12-2014,7,6,,5,Unmarried,2,-1,2,others,1
+FKI<MU,4447,,sector-40,,,1,2,10-07-2014,6,5,,5,Married,1,2,1,Friend,1
+JBHLRR,4755,,sector-41,,,1,0,14-07-2014,4,6,,1,Unmarried,3,3,1,Friend,1
+XTZCCX,5130,,sector-42,,,1,1,26-10-2014,9,1,,5,,0,1,2,Friend,1
+LLACQV,4513,,sector-43,,,1,2,07-09-2014,6,1,,1,,4,1,1,others,0
+?H<L?Y,6258,,sector-44,,,2,2,30-05-2014,7,3,,6,,1,1,0,Banner,1
+<RONZC,7326,,sector-45,,,0,1,02-06-2014,9,3,,4,,4,1,0,Banner,0
+KMXDCX,4648,,sector-46,,,2,2,03-01-2014,9,2,,4,,4,-1,2,others,1
+@UWFHJ,8271,,sector-47,,,1,2,20-02-2014,4,2,,4,,4,0,0,Friend,0
+P>KH>N,4655,,sector-48,,,1,2,14-11-2014,4,2,,4,,1,-1,2,Friend,0
+UNRNDS,4928,,sector-49,,,2,0,01-01-2014,9,2,,2,,1,0,1,Friend,0
+CWQ>DV,5292,,sector-50,,,2,0,20-02-2014,8,5,,3,Married,0,0,1,Friend,1
+@Y?JFF,6418,,sector-51,,,0,2,16-04-2014,7,4,,2,Married,0,2,2,Banner,0
+REAOZG,7435,,sector-52,,,0,1,18-10-2014,5,4,,1,Unmarried,3,3,1,Mobile ad,1
+HGSNXL,4884,,sector-53,,,0,0,03-07-2014,2,2,,6,Married,3,1,1,Mobile ad,1
+R><QNP,4493,,sector-54,,,2,2,06-03-2014,6,2,,2,Unmarried,4,0,0,Friend,0
+EIQFCJ,8188,,sector-55,,,1,2,05-02-2014,2,3,,6,Married,4,1,1,Mobile ad,0
+BYUBAB,4906,,sector-56,,,0,2,27-10-2014,9,2,,3,Unmarried,4,0,2,Friend,0
+=?XFZP,6511,,sector-57,,,1,0,09-12-2014,10,5,,5,Unmarried,2,-1,2,Friend,1
+EMDP@>,7628,,sector-58,,,0,1,06-12-2014,2,5,,1,Unmarried,1,1,2,Banner,0
+YYPPHT,5916,,sector-59,,,0,2,02-09-2014,3,5,,4,Married,0,2,0,Banner,1
+MN=RBX,8703,,sector-60,,,2,1,21-06-2014,3,4,,1,Married,0,2,2,Banner,0
+IXQLSJ,7265,,sector-61,,,1,0,10-05-2014,2,2,,3,Unmarried,2,-1,2,Friend,1
+VDFL>D,7192,,sector-62,,,2,0,07-03-2014,4,6,,1,Married,1,3,0,Social media,1
+ZXJFWU,6140,,sector-63,,,2,1,03-10-2014,9,3,,5,Unmarried,0,0,0,Social media,1
+FFLCH@,6980,,sector-64,,,0,1,26-04-2014,2,5,,4,Unmarried,1,0,1,Friend,1
+BHE=BD,4564,,sector-65,,,2,1,05-07-2014,1,1,,1,Married,0,1,1,Friend,1
+HHPSNI,8332,,sector-66,,,1,1,05-05-2014,6,4,,3,Married,4,1,0,Banner,0
+FV>UBO,5177,,sector-67,,,2,1,20-06-2014,2,2,,4,Unmarried,0,1,1,Friend,1
+UZ?VSQ,6983,,sector-68,,,2,0,21-07-2014,6,4,,5,Unmarried,3,3,1,Friend,1
+@YAYMP,5223,,sector-69,,,0,2,05-09-2014,8,4,,5,Married,3,2,0,Banner,1
+MICIB?,8641,,sector-70,,,0,2,13-10-2014,10,4,,1,Married,3,1,1,Mobile ad,0
+WHVJUF,8012,,sector-71,,,1,2,25-02-2014,6,4,,3,Unmarried,0,2,2,Mobile ad,1
+@>R=PK,7404,,sector-72,,,2,1,04-06-2014,5,6,,6,Married,3,0,2,Friend,1
+Q>EMVZ,5151,,sector-73,,,2,0,07-08-2014,5,1,,1,Unmarried,0,-1,2,Mobile ad,1
+L@FZY=,5129,,sector-74,,,0,0,05-09-2014,1,3,,3,Married,2,1,2,Friend,0
+TWNXBI,8281,,sector-75,,,1,2,02-05-2014,8,1,,1,Unmarried,0,0,0,Friend,0
+TSFLV?,4993,,sector-76,,,2,0,15-01-2014,4,4,,3,Unmarried,4,1,1,Banner,0
+#NAME?,8548,,sector-77,,,0,0,30-01-2014,4,1,,6,Married,3,3,1,Banner,1
+TBS<LX,6611,,sector-78,,,2,1,04-06-2014,5,5,,5,Married,3,-1,0,Banner,1
+M>X?GH,6684,,sector-79,,,2,0,05-12-2014,4,2,,5,Unmarried,0,2,0,Friend,1
+LZHF=I,7018,,sector-80,,,2,1,23-11-2014,9,5,,2,Married,4,3,1,Social media,1
+DPJEO@,7076,,sector-81,,,2,1,28-02-2014,8,1,,5,Married,0,1,2,Social media,1
+YBVWL?,5071,,sector-82,,,1,1,17-08-2014,9,3,,4,Unmarried,3,3,2,Friend,1
+YZ>B>J,6678,,sector-83,,,1,0,22-05-2014,3,4,,3,Married,1,1,1,Friend,0
+F@EPSO,6652,,sector-84,,,1,1,17-11-2014,3,4,,6,Married,1,1,2,Banner,0
+OXQKUW,5666,,sector-85,,,0,2,10-01-2014,2,3,,6,Unmarried,4,1,1,others,0
+XT=C?G,6488,,sector-86,,,2,2,14-10-2014,2,6,,4,Unmarried,0,-1,2,Banner,0
+NI>VDX,5280,,sector-87,,,2,2,30-05-2014,3,1,,4,Unmarried,0,3,1,others,0
+R@RRCK,6678,,sector-88,,,1,0,31-12-2014,6,3,,5,Married,0,2,1,Friend,1
+A>N@?D,7211,,sector-89,,,2,2,14-09-2014,8,5,,6,Married,1,0,0,Friend,1
+EBEICR,8623,,sector-90,,,0,2,10-10-2014,3,6,,1,Married,2,1,0,Friend,0
+CJKGVC,8278,,sector-91,,,0,2,23-08-2014,8,2,,1,Unmarried,0,-1,0,others,0
+>BZ>MX,4970,,sector-92,,,2,2,04-03-2014,9,1,,1,Unmarried,1,1,0,Banner,1
+ZCC?BN,4225,,sector-93,,,1,0,16-09-2014,10,3,,3,Married,3,3,0,Banner,0
+AXXB<R,5544,,sector-94,,,0,1,22-11-2014,7,6,,3,Married,4,3,2,others,1
+HUSNZ>,4313,,sector-95,,,0,2,15-09-2014,5,3,,2,Married,4,0,2,Friend,1
+WB@BBJ,7562,,sector-96,,,1,0,17-04-2014,4,1,,2,Married,4,3,2,Friend,1
+VJYRSY,4583,,sector-97,,,1,0,25-07-2014,4,5,,1,Unmarried,3,2,0,Friend,1
+YT<WMB,8707,,sector-98,,,0,2,12-12-2014,3,1,,3,Unmarried,1,0,1,Friend,0
+VRY=TZ,5708,,sector-99,,,2,0,26-02-2014,8,6,,2,,0,-1,1,Banner,0
+F?PVXI,5173,,sector-100,,,1,2,16-10-2014,6,5,,3,,0,1,2,Mobile ad,1
+VZJAKR,5013,,sector-101,,,2,0,22-01-2014,8,6,,2,,1,3,1,Mobile ad,1
+?J?U@W,8373,,sector-102,,,0,1,31-01-2014,5,3,,2,,3,-1,0,Friend,0
+?MGNW>,8353,,sector-103,,,2,2,21-12-2014,6,3,,1,,4,-1,2,Mobile ad,1
+OG=V=P,4509,,sector-104,,,2,1,21-08-2014,10,4,,5,,4,0,1,Friend,0
+HCD>HV,6386,,sector-105,,,1,0,04-11-2014,10,2,,1,,2,0,1,Friend,0
+OGDLUC,5662,,sector-106,,,2,2,14-04-2014,3,5,,4,,3,2,2,Banner,0
+VCCKS=,6003,,sector-107,,,0,0,14-10-2014,8,2,,4,,1,0,2,Banner,1
+TBUHS>,6493,,sector-108,,,1,0,28-11-2014,10,2,,1,,3,3,2,Banner,1
+?XCJ<N,4919,,sector-109,,,0,0,11-03-2014,2,2,,6,,2,3,0,Friend,0
+AI>Q?K,7661,,sector-110,,,1,2,10-04-2014,3,5,,1,,1,0,0,Social media,1
+?@GRZ<,7949,,sector-111,,,0,2,21-10-2014,9,2,,2,,4,-1,2,Social media,1
+>T=ZOC,8543,,sector-112,,,0,2,09-04-2014,1,6,,4,,1,2,2,Friend,1
+#NAME?,7446,,sector-113,,,0,1,15-07-2014,1,3,,4,,3,2,1,Friend,0
+ZPUC==,6421,,sector-114,,,2,0,12-06-2014,2,5,,3,,4,3,1,Banner,0
+?XKPQQ,7788,,sector-115,,,2,0,26-05-2014,8,4,,5,,1,2,0,Friend,1
+#NAME?,7907,,sector-116,,,0,1,09-04-2014,5,3,,3,,3,2,1,Mobile ad,1
+PR>PRM,8746,,sector-117,,,1,2,19-12-2014,4,5,,2,,3,1,2,Friend,1
+MWYWXM,4693,,sector-118,,,2,0,15-02-2014,10,3,,4,Married,0,3,0,Friend,0
+?NO?MS,8880,,sector-119,,,2,2,20-04-2014,10,6,,5,Married,0,0,2,Friend,1
+DOMZE@,5295,,sector-120,,,1,0,31-07-2014,2,4,,1,Unmarried,4,1,0,Mobile ad,1
+NCGYLS,8752,,sector-121,,,0,1,30-10-2014,1,2,,2,Married,0,-1,0,Friend,0
+QL>MZS,5676,,sector-122,,,2,0,21-06-2014,8,4,,2,Unmarried,4,2,1,Friend,0
+LVLJAG,4622,,sector-123,,,0,2,11-04-2014,7,2,,3,Married,3,-1,1,Banner,1
+@MJQ?Z,6894,,sector-124,,,0,2,11-08-2014,9,3,,3,Unmarried,1,0,2,Social media,0
+T<=WLP,4578,,sector-125,,,2,1,07-03-2014,9,4,,1,Unmarried,1,3,1,others,1
+A><OWO,5890,,sector-126,,,1,2,01-10-2014,1,3,,1,Unmarried,1,0,2,Friend,0
+BVMTTN,8867,,sector-127,,,2,0,02-09-2014,8,2,,6,Married,2,0,1,Banner,1
+S><>PS,6817,,sector-128,,,2,1,24-09-2014,9,4,,3,Married,0,3,0,Friend,0
+APFLXU,8901,,sector-129,,,2,2,11-09-2014,3,3,,6,Unmarried,2,1,1,Friend,1
+FJEGY>,7846,,sector-130,,,1,0,26-08-2014,10,1,,2,Married,4,0,0,Banner,1
+P>WKFV,8244,,sector-131,,,0,1,26-11-2014,7,4,,1,Unmarried,4,3,1,Mobile ad,0
+?ZOKNN,8134,,sector-132,,,0,1,27-06-2014,10,6,,5,Unmarried,4,2,1,Mobile ad,1
+RP=MYV,5754,,sector-133,,,1,1,11-07-2014,3,5,,5,Married,0,1,0,Friend,1
+PVCGSH,8267,,sector-134,,,2,1,14-07-2014,1,2,,2,Married,0,3,1,Mobile ad,0
+SHXBTE,5602,,sector-135,,,1,2,12-10-2014,5,3,,6,Unmarried,0,-1,2,Friend,1
+GVFCAU,8384,,sector-136,,,2,0,04-02-2014,5,3,,6,Unmarried,2,1,1,Friend,1
+LSXBV?,5687,,sector-137,,,2,2,13-10-2014,8,1,,1,Married,0,-1,1,Banner,0
+LUQHIM,7793,,sector-138,,,0,1,04-04-2014,7,2,,1,Married,1,2,1,Banner,1
+DOQVHD,5388,,sector-139,,,1,0,13-06-2014,10,2,,3,Unmarried,1,2,1,Banner,1
+V=JV<L,5044,,sector-140,,,1,2,17-12-2014,1,3,,6,Married,3,2,2,Friend,0
+O=NM>U,8012,,sector-141,,,0,1,06-09-2014,9,6,,6,Unmarried,0,1,0,Social media,1
+L<HDTR,7525,,sector-142,,,2,1,14-01-2014,4,6,,2,Married,2,2,1,Friend,1
+HDBQFR,5933,,sector-143,,,1,1,03-11-2014,3,6,,2,Unmarried,0,-1,1,Friend,1
+BJ>OOC,4964,,sector-144,,,1,0,20-01-2014,3,3,,3,Unmarried,0,2,2,Banner,0
+STOD>Q,6647,,sector-145,,,0,1,23-04-2014,5,5,,3,Married,2,2,0,Mobile ad,0
+WVGOKI,6721,,sector-146,,,1,1,13-05-2014,1,4,,3,Married,2,-1,2,Mobile ad,1
+J?JWHS,5874,,sector-147,,,1,1,05-03-2014,4,1,,2,Unmarried,1,-1,0,Friend,1
+GPR?>E,7135,,sector-148,,,2,2,27-11-2014,10,3,,2,Married,0,0,1,Mobile ad,0
+ULMXXB,7439,,sector-149,,,1,1,14-06-2014,9,1,,3,Married,1,1,0,Friend,0
+HIXG>B,4442,,sector-150,,,2,2,29-01-2014,5,5,,3,Unmarried,2,2,2,Friend,0
+LGMVBG,8404,,sector-151,,,2,1,08-09-2014,6,1,,4,Married,0,2,0,Banner,1
+IBIJ@P,4131,,sector-152,,,0,2,01-11-2014,3,4,,4,Married,1,2,2,Banner,0
+OTWW?H,7320,,sector-153,,,0,1,05-09-2014,5,6,,3,Unmarried,3,2,1,Banner,1
+JHSGTY,8653,,sector-154,,,2,1,14-01-2014,3,3,,2,Unmarried,4,-1,2,Friend,0
+VZQM=S,7498,,sector-155,,,1,0,17-11-2014,5,3,,1,Unmarried,3,1,1,Social media,1
+W>C<KU,6345,,sector-156,,,1,0,18-08-2014,1,5,,5,Married,4,3,2,Social media,1
+FK?AR@,4210,,sector-157,,,1,1,04-07-2014,6,3,,6,Married,1,1,2,Friend,1
+GF?>ST,7258,,sector-158,,,0,2,15-01-2014,7,5,,1,Married,4,0,2,Friend,0
+CLTPYP,6027,,sector-159,,,1,2,08-05-2014,5,5,,6,Unmarried,3,2,0,Banner,0
+RX<AAI,6436,,sector-160,,,1,0,08-02-2014,1,3,,2,Unmarried,2,3,2,Friend,1
+WBWKI@,8208,,sector-161,,,2,1,09-07-2014,8,4,,2,Married,3,2,2,Banner,0
+<WSO>F,7058,,sector-162,,,0,2,07-01-2014,5,4,,6,Married,1,1,0,Mobile ad,1
+HETKRN,8173,,sector-163,,,0,0,24-11-2014,8,1,,1,Married,1,0,0,Banner,1
+B?BHKD,5516,,sector-164,,,0,1,29-09-2014,6,2,,4,Married,3,3,2,Banner,1
+PNF@FJ,4171,,sector-165,,,2,1,30-08-2014,9,3,,5,Unmarried,2,2,0,Friend,0
+QVDSIZ,6700,,sector-166,,,2,1,13-12-2014,3,2,,2,Unmarried,4,2,1,Friend,0
+><OUVW,5911,,sector-167,,,0,1,02-09-2014,5,5,,3,,4,3,1,Friend,0
+?RIUAV,4074,,sector-168,,,1,1,03-08-2014,6,6,,6,Married,3,-1,1,others,1
+TNGSZJ,6067,,sector-169,,,1,0,21-05-2014,2,3,,2,Married,1,1,2,Banner,1
+KTLG>F,5804,,sector-170,,,2,0,12-11-2014,2,6,,5,Unmarried,1,0,2,others,1
+YFBIJE,4814,,sector-171,,,2,0,21-06-2014,9,5,,5,Married,2,2,0,Friend,1
+RYZTT=,8007,,sector-172,,,2,0,22-02-2014,1,2,,1,Unmarried,2,2,2,Friend,1
+W<CWCS,8611,,sector-173,,,1,2,30-11-2014,9,3,,4,Married,3,3,2,Friend,0
+A@JBRG,5982,,sector-174,,,0,1,04-02-2014,5,6,,6,Unmarried,2,1,2,others,1
+OO@I?C,6336,,sector-175,,,0,2,28-01-2014,1,5,,4,Unmarried,2,3,2,Banner,1
+@YE=JR,7144,,sector-176,,,1,1,02-02-2014,8,5,,5,Unmarried,4,3,2,Banner,1
+AHGW?@,5555,,sector-177,,,2,0,24-12-2014,3,4,,4,Married,2,1,0,others,1
+PSOQ<<,4909,,sector-178,,,1,0,08-10-2014,4,1,,3,Married,0,-1,2,Friend,1
+BTEINS,6907,,sector-179,,,1,0,09-02-2014,10,5,,5,Unmarried,0,2,1,Friend,1
+?VUNPT,6757,,sector-180,,,0,2,13-03-2014,10,3,,1,Married,0,-1,2,Friend,0
+@PWBAV,7501,,sector-181,,,2,2,21-04-2014,6,2,,4,Unmarried,0,2,1,Friend,0
+LKAYHU,8566,,sector-182,,,0,1,25-09-2014,1,6,,4,Unmarried,4,-1,0,Banner,0
+QW=K=Y,4181,,sector-183,,,2,1,05-06-2014,4,4,,6,Married,2,3,2,Mobile ad,1
+<@V>LO,7200,,sector-184,,,2,1,26-06-2014,10,1,,4,Married,2,0,1,Mobile ad,1
+BA=D??,7590,,sector-185,,,2,0,30-09-2014,10,5,,5,Married,2,-1,0,Friend,1
+RKL=YV,6007,,sector-186,,,2,0,21-04-2014,5,6,,5,Unmarried,3,1,1,Mobile ad,1
+HCT>G<,7365,,sector-187,,,1,1,15-02-2014,1,4,,4,Married,3,3,2,Friend,0
+OGC=GW,5221,,sector-188,,,1,1,10-11-2014,9,6,,3,Unmarried,2,-1,0,Friend,1
+VWTSG<,4273,,sector-189,,,2,2,13-08-2014,1,6,,3,Married,4,0,0,Banner,0
+TZQBDW,6239,,sector-190,,,2,2,16-10-2014,6,1,,3,Unmarried,0,3,0,Banner,1
+BKSDJV,7649,,sector-191,,,0,1,28-02-2014,10,6,,1,Unmarried,3,3,1,Banner,0
+CB=R@M,4855,,sector-192,,,2,1,09-11-2014,5,1,,6,Unmarried,4,-1,2,Friend,1
+>Y?@YD,7607,,sector-193,,,2,0,11-02-2014,9,5,,4,Married,2,2,0,Social media,0
+FQDR@>,4247,,sector-194,,,0,2,06-04-2014,6,5,,6,Married,2,2,0,Social media,0
+FEH>?H,7759,,sector-195,,,1,0,03-06-2014,10,6,,5,Unmarried,1,-1,0,Friend,0
+U@OOPM,7141,,sector-196,,,1,2,26-03-2014,6,4,,4,Married,3,1,2,Friend,1
+>E>QEC,5079,,sector-197,,,0,1,13-04-2014,2,2,,5,Unmarried,1,0,1,Banner,1
+MYRFW=,4141,,sector-198,,,0,1,14-10-2014,1,4,,2,Unmarried,1,1,2,Friend,1
+BI?LXN,8191,,sector-199,,,0,0,27-03-2014,1,3,,3,Married,1,2,2,Mobile ad,0
+U>OP=O,7755,,sector-200,,,2,0,22-10-2014,2,3,,2,Married,2,0,0,Friend,0
+SRF?<J,8697,,sector-201,,,2,2,07-11-2014,7,3,,2,Married,3,2,0,Friend,1
+RUICO?,6484,,sector-202,,,1,0,03-07-2014,2,1,,4,Unmarried,0,2,1,Social media,0
+CXYE@Y,4729,,sector-203,,,2,2,14-07-2014,6,2,,5,Married,3,2,1,Friend,1
+MPHEZA,5326,,sector-204,,,2,2,07-05-2014,4,1,,6,Unmarried,1,3,1,Friend,0
+PZUXI?,4817,,sector-205,,,0,1,18-05-2014,3,4,,5,Unmarried,2,-1,0,Banner,0
+RJBBNQ,7974,,sector-206,,,0,2,10-02-2014,6,3,,6,Married,4,1,2,Mobile ad,0
+DMW=JA,5103,,sector-207,,,0,1,21-05-2014,6,2,,5,Married,2,1,0,Mobile ad,1
+BDLIBN,7618,,sector-208,,,2,0,17-10-2014,3,2,,2,Unmarried,0,2,0,Friend,1
+GLLROH,4340,,sector-209,,,1,0,08-11-2014,3,6,,2,Unmarried,2,3,1,Mobile ad,0
+TJHZOD,7818,,sector-210,,,1,1,15-08-2014,7,3,,6,Married,0,0,2,Friend,1
+ROOIK=,7338,,sector-211,,,1,0,23-03-2014,4,6,,5,Married,4,2,0,Friend,1
+@VILDK,6239,,sector-212,,,1,1,11-09-2014,1,3,,5,Unmarried,0,-1,2,Banner,1
+KYD>>A,8026,,sector-213,,,0,0,10-04-2014,3,3,,6,Married,1,-1,0,Banner,1
+P>BEWF,8167,,sector-214,,,2,2,01-09-2014,6,2,,3,Unmarried,4,0,1,Banner,0
+>O=HMM,4134,,sector-215,,,0,0,02-03-2014,5,2,,3,Married,0,2,0,Friend,0
+IAZSZP,4185,,sector-216,,,0,2,26-04-2014,7,2,,4,Unmarried,4,-1,1,Social media,1
+B<QF>B,5536,,sector-217,,,0,0,18-01-2014,5,2,,3,Unmarried,2,1,2,Social media,1
+<MDDBU,8808,,sector-218,,,0,0,21-06-2014,3,6,,5,Married,4,1,0,Friend,0
+YOYIX?,7616,,sector-219,,,1,0,01-04-2014,10,3,,5,Married,4,2,1,Friend,0
+ZPGXXX,8635,,sector-220,,,0,2,06-06-2014,8,4,,3,Unmarried,0,3,0,Banner,0
+WFRRPF,6838,,sector-221,,,2,2,11-12-2014,7,6,,4,Married,1,2,1,Mobile ad,1
+ZFZWDU,5282,,sector-222,,,2,1,16-03-2014,5,4,,1,Married,4,3,2,Mobile ad,1
+BEACPQ,6887,,sector-223,,,0,0,20-10-2014,10,5,,1,Unmarried,1,0,0,Friend,1
+OXFWWN,7289,,sector-224,,,1,0,16-12-2014,8,2,,3,Married,3,-1,0,Mobile ad,0
+MNBHJZ,7602,,sector-225,,,2,1,08-11-2014,2,4,,2,Married,1,2,1,Friend,0
+#NAME?,4657,,sector-226,,,2,2,15-06-2014,2,1,,3,Unmarried,4,3,0,Friend,1
+UIBYPV,7017,,sector-227,,,0,1,18-09-2014,5,6,,3,Unmarried,4,-1,0,others,1
+ZRJS?V,6037,,sector-228,,,0,2,24-03-2014,10,3,,2,Unmarried,4,-1,1,Banner,0
+BX@TTC,7049,,sector-229,,,2,0,29-05-2014,2,3,,6,Married,0,2,0,others,0
+LHKL<I,5556,,sector-230,,,0,2,17-04-2014,3,2,,5,Married,4,-1,0,Friend,0
+LMKL<X,7435,,sector-231,,,1,1,07-08-2014,5,5,,4,Married,3,-1,1,Friend,0
+ZBZG=J,4157,,sector-232,,,1,0,26-04-2014,5,4,,6,Unmarried,0,1,1,Friend,1
+JB=QBG,8655,,sector-233,,,2,0,04-07-2014,7,1,,3,Unmarried,2,2,0,others,1
+ZUKTCF,6726,,sector-234,,,2,2,09-11-2014,1,4,,5,Married,0,2,2,Banner,1
+RSYMFP,4303,,sector-235,,,2,0,03-05-2014,10,1,,2,Married,3,-1,0,Banner,0
+VTKVPM,8988,,sector-236,,,0,2,14-02-2014,4,1,,3,Married,0,3,1,others,1
+QPKJVB,8091,,sector-237,,,2,2,09-04-2014,3,1,,3,Married,0,1,1,Friend,0
+KTBD>=,6055,,sector-238,,,1,0,22-08-2014,3,2,,6,Unmarried,3,1,1,Friend,1
+QM=KPL,7287,,sector-239,,,2,0,02-09-2014,3,3,,2,Unmarried,0,2,0,Friend,1
+K>RUOQ,8923,,sector-240,,,0,2,20-10-2014,9,5,,5,,0,3,1,Friend,0
+T@UD<F,5704,,sector-241,,,0,2,06-04-2014,9,4,,4,,1,3,0,Banner,1
+KAQOOW,8051,,sector-242,,,1,0,04-12-2014,6,6,,5,,2,0,2,Mobile ad,1
+VSRMMX,4099,,sector-243,,,2,1,06-03-2014,2,3,,3,,2,-1,2,Mobile ad,1
+IYGBTH,8916,,sector-244,,,2,2,09-12-2014,6,2,,2,,1,0,2,Friend,0
+HBZYKR,6854,,sector-245,,,2,2,26-11-2014,4,1,,1,,0,-1,0,Mobile ad,0
+KDKX=R,8840,,sector-246,,,1,0,27-12-2014,4,3,,4,,2,0,1,Friend,0
+LWPZKV,7767,,sector-247,,,1,2,03-12-2014,10,5,,6,,3,1,1,Friend,1
+IDPKYT,8125,,sector-248,,,2,2,18-08-2014,1,4,,1,,1,3,2,Banner,1
+IB@H>P,7992,,sector-249,,,0,1,21-12-2014,4,1,,5,,3,1,1,Banner,0
+YNRSSK,7843,,sector-250,,,1,2,13-07-2014,8,3,,2,,1,1,1,Friend,1
+NCQSW@,6484,,sector-251,,,1,0,12-11-2014,9,2,,4,,0,3,2,others,1
+@WVTE<,6573,,sector-252,,,0,2,23-04-2014,7,4,,2,,0,1,1,Banner,1
+LX<KUT,6797,,sector-253,,,2,0,20-10-2014,10,6,,5,,1,2,0,others,1
+PQZG<I,6541,,sector-254,,,0,0,04-11-2014,5,4,,5,,2,0,2,Friend,0
+Q<EU?F,6605,,sector-255,,,2,2,15-10-2014,10,1,,4,,3,0,0,Friend,0
+THMPBY,4116,,sector-256,,,1,0,29-10-2014,6,1,,4,,4,1,1,Friend,1
+ZPRVYO,4562,,sector-257,,,2,2,11-10-2014,4,2,,2,,1,3,2,others,1
+QD<DEF,4114,,sector-258,,,1,1,29-11-2014,6,1,,4,,4,2,2,Banner,1
+QPEWZ<,6687,,sector-259,,,0,2,13-02-2014,9,3,,4,,3,0,1,Banner,1
+QWKU<H,7588,,sector-260,,,1,1,17-08-2014,5,3,,2,,3,3,0,others,0
+?=KYNY,7960,,sector-261,,,0,2,25-10-2014,6,1,,5,,0,3,1,Friend,1
+QOWC>G,8990,,sector-262,,,1,1,03-02-2014,1,4,,5,,2,0,2,Friend,0
+OEE==Y,6743,,sector-263,,,1,0,05-09-2014,7,1,,5,,1,0,0,Friend,0
+LLY<JN,8384,,sector-264,,,1,1,27-11-2014,4,3,,3,,1,1,0,Friend,1
+UHTSMH,7860,,sector-265,,,0,0,17-04-2014,2,5,,4,,4,2,0,Banner,1
+M?U=I>,6505,,sector-266,,,1,0,28-01-2014,6,5,,6,,4,0,0,Mobile ad,0
+N>OL<J,4141,,sector-267,,,2,1,06-08-2014,9,4,,2,,1,3,2,Mobile ad,1
+SUYW>B,6227,,sector-268,,,0,0,02-01-2014,8,3,,6,,1,0,1,Friend,0
+P=SLL@,6164,,sector-269,,,2,1,23-05-2014,3,5,,3,,2,3,0,Mobile ad,0
+Q@ULOJ,4364,,sector-270,,,2,2,17-07-2014,10,1,,3,,1,1,1,Friend,0
+MP=<TJ,4090,,sector-271,,,1,0,01-08-2014,8,6,,3,,1,0,2,Friend,0
+IXKZTZ,6676,,sector-272,,,0,1,10-02-2014,7,4,,5,Married,1,0,0,Banner,0
+>ZQDZZ,8816,,sector-273,,,0,2,20-12-2014,3,4,,5,Married,3,0,2,Banner,0
+IB<KPZ,8137,,sector-274,,,0,1,26-10-2014,3,6,,6,Unmarried,3,-1,1,Friend,0
+ZVMVMY,5326,,sector-275,,,1,1,18-01-2014,8,5,,3,Married,2,3,1,Social media,1
+MJZTEF,4154,,sector-276,,,1,2,14-01-2014,6,4,,2,Unmarried,2,1,2,Social media,0
+EP<HJV,8153,,sector-277,,,2,1,17-10-2014,1,1,,4,Married,4,1,0,Friend,0
+UIABK>,5466,,sector-278,,,1,0,03-06-2014,4,3,,5,Unmarried,1,0,2,Friend,0
+IQ=ESZ,7538,,sector-279,,,0,2,15-07-2014,4,1,,6,Unmarried,2,1,2,Banner,1
+SU=TCS,4340,,sector-280,,,2,2,13-11-2014,8,2,,1,Unmarried,4,-1,0,Banner,1
+THI=EK,5521,,sector-281,,,2,1,14-02-2014,5,1,,6,Married,4,0,0,others,0
+WDZNZD,6118,,sector-282,,,0,0,26-01-2014,1,3,,4,Married,4,2,0,others,0
+IFNZCI,4091,,sector-283,,,2,2,14-02-2014,1,1,,2,Unmarried,1,2,0,others,0
+C?IWWE,4387,,sector-284,,,0,1,10-12-2014,5,1,,5,Married,0,0,2,Friend,0
+HCZHRU,7845,,sector-285,,,1,2,18-05-2014,2,6,,3,Unmarried,3,1,0,Banner,0
+GE=RXN,6880,,sector-286,,,2,1,05-10-2014,9,6,,1,Unmarried,3,2,2,Mobile ad,1
+OUXDEJ,6304,,sector-287,,,0,1,26-05-2014,6,5,,6,Married,1,0,0,Banner,0
+BO?I<M,4787,,sector-288,,,0,2,15-10-2014,5,6,,4,Married,1,0,0,Banner,0
+EHQOPW,6948,,sector-289,,,2,1,26-10-2014,2,2,,5,Unmarried,1,1,0,Friend,1
+NN>TPT,7132,,sector-290,,,0,2,07-05-2014,9,5,,1,Unmarried,3,-1,1,Friend,1
+WCU@JL,8539,,sector-291,,,1,2,14-11-2014,10,6,,4,Married,3,1,2,Friend,1
+>LX><V,5162,,sector-292,,,1,1,22-09-2014,10,1,,4,Married,0,1,1,others,0
+UNMXFN,7253,,sector-293,,,2,1,04-11-2014,8,4,,2,Unmarried,0,2,1,Banner,1
+Y=?Q?R,7372,,sector-294,,,1,1,29-08-2014,8,1,,5,Married,1,2,0,others,1
+MQKIWO,4790,,sector-295,,,2,1,27-09-2014,2,5,,5,Unmarried,3,1,2,Friend,0
+RKIOZK,7646,,sector-296,,,1,0,27-06-2014,1,5,,4,Married,0,-1,0,Friend,1
+HR@TDZ,5535,,sector-297,,,1,1,02-12-2014,9,4,,2,Unmarried,0,3,1,Friend,0
+>>NVTN,4247,,sector-298,,,0,2,24-11-2014,7,2,,4,Unmarried,4,0,0,others,1
+BXSCB?,8812,,sector-299,,,1,1,09-10-2014,10,3,,4,Married,4,-1,0,Banner,0
+WD<WSB,8305,,sector-300,,,2,2,02-12-2014,7,3,,5,Married,0,-1,2,Banner,1
+O?Z>CG,4906,,sector-301,,,1,1,02-12-2014,8,3,,1,Unmarried,2,2,2,others,0
+@D=SHC,5033,,sector-302,,,1,2,13-04-2014,5,1,,2,Married,1,0,1,Friend,1
+F>VYYO,7218,,sector-303,,,1,0,15-12-2014,6,4,,3,Married,0,-1,2,Friend,0
+>TZG?O,7592,,sector-304,,,0,1,24-07-2014,2,4,,1,Unmarried,0,3,2,Friend,1
+@YVQBZ,6109,,sector-305,,,0,1,19-07-2014,1,4,,4,Married,4,-1,0,Friend,0
+Y<MDRE,4361,,sector-306,,,1,2,11-07-2014,4,3,,3,Married,0,1,2,Banner,1
+RWJWAP,4880,,sector-307,,,1,1,28-05-2014,9,3,,4,Unmarried,0,1,0,Mobile ad,1
+PZIIJV,5043,,sector-308,,,0,1,10-08-2014,7,6,,5,Unmarried,1,3,0,Mobile ad,0
+SLWB@G,5671,,sector-309,,,2,1,03-11-2014,6,2,,3,Unmarried,1,-1,2,Friend,0
+ZIMWXQ,6683,,sector-310,,,1,2,29-04-2014,7,6,,6,Married,0,3,1,Mobile ad,0
+>GXT?=,5029,,sector-311,,,2,0,19-06-2014,7,2,,5,Married,4,3,2,Friend,1
+MWJOVO,6870,,sector-312,,,1,2,05-05-2014,9,4,,3,Married,0,3,0,Friend,0
+HIDA?M,6884,,sector-313,,,0,1,05-03-2014,3,4,,1,Unmarried,0,0,2,Banner,1
+BAELWB,4098,,sector-314,,,0,1,05-04-2014,3,1,,3,Unmarried,3,0,1,Banner,0
+FGIIUB,6655,,sector-315,,,1,2,15-03-2014,8,5,,4,Married,2,-1,1,Banner,1
+R>JNIW,5033,,sector-316,,,1,2,21-09-2014,5,5,,3,Married,3,-1,2,Friend,1
+HJRQQY,8292,,sector-317,,,0,0,19-12-2014,4,3,,3,Married,3,2,2,Social media,0
+<LHNHF,8905,,sector-318,,,1,2,05-11-2014,5,2,,5,Married,1,1,0,Social media,1
+?L>=CF,7424,,sector-319,,,1,2,03-10-2014,1,4,,4,Unmarried,3,1,2,Friend,1
+KUVGJP,6825,,sector-320,,,0,1,15-11-2014,3,5,,6,Unmarried,0,2,1,Friend,0
+XB<TZU,4735,,sector-321,,,1,2,21-09-2014,2,3,,5,,4,2,2,Banner,1
+YQVENJ,8082,,sector-322,,,2,2,16-12-2014,10,1,,6,,4,3,1,Friend,1
+DVV=U>,7975,,sector-323,,,2,1,08-11-2014,10,5,,1,,3,0,2,Friend,1
+VWUGJE,8489,,sector-324,,,2,2,13-03-2014,9,4,,5,,2,-1,1,Banner,1
+JBFWV<,8366,,sector-325,,,2,0,16-08-2014,6,4,,6,,3,2,0,Mobile ad,1
+WYZ>>U,5857,,sector-326,,,0,0,07-08-2014,3,4,,1,,0,2,1,Mobile ad,0
+WTRD<E,4554,,sector-327,,,0,1,13-09-2014,10,5,,6,,0,0,0,Friend,1
+YETAYQ,5662,,sector-328,,,1,1,07-10-2014,3,2,,2,,3,-1,1,Mobile ad,0
+LLLCGU,6191,,sector-329,,,1,1,27-03-2014,9,5,,6,,1,1,0,Friend,1
+R=BTXD,8203,,sector-330,,,2,1,04-05-2014,8,4,,6,,0,2,1,Friend,1
+IMQZCR,4054,,sector-331,,,0,2,30-12-2014,7,1,,6,,4,3,1,Banner,1
+VEWDNC,7136,,sector-332,,,2,0,03-11-2014,6,2,,2,,1,0,1,Banner,1
+WHPEQU,5185,,sector-333,,,2,2,12-11-2014,10,5,,4,,1,0,1,Banner,1
+WMYDCS,8646,,sector-334,,,2,0,18-06-2014,10,5,,2,,4,-1,0,Friend,0
+ZXVKOV,5378,,sector-335,,,1,0,12-06-2014,3,6,,2,,4,2,2,Social media,0
+HBF>ZH,8008,,sector-336,,,0,2,07-08-2014,10,5,,2,,1,0,2,Social media,1
+RACAEE,7258,,sector-337,,,0,0,05-11-2014,8,4,,4,,2,3,0,Friend,1
+#NAME?,5360,,sector-338,,,2,0,09-04-2014,2,3,,3,,0,1,2,Friend,0
+EORFCC,7977,,sector-339,,,2,1,27-02-2014,7,6,,6,,4,3,0,Banner,1
+OIE@@S,5069,,sector-340,,,0,0,24-09-2014,4,6,,4,,3,0,1,others,0
+UIBLPP,6418,,sector-341,,,2,0,12-06-2014,,,,2,,1,-1,0,Banner,1
+YTZHKU,4003,,sector-342,,,1,2,17-01-2014,,,,2,,3,0,0,others,1
+<F<AHS,6160,,sector-343,,,1,1,19-01-2014,,,,6,,0,0,2,Friend,1
+GNG=C=,7641,,sector-344,,,0,1,11-04-2014,,,,1,Married,2,0,1,Friend,1
+VXQVH>,4704,,sector-345,,,2,1,27-03-2014,,,,5,Married,3,-1,0,Friend,1
+<MNH?I,6131,,sector-346,,,1,2,15-09-2014,,,,2,Unmarried,1,3,1,others,1
+LS=BFI,7813,,sector-347,,,0,2,30-09-2014,,,,1,Married,3,1,1,Banner,0
+N>?AJQ,4121,,sector-348,,,1,1,27-10-2014,,,,1,Unmarried,1,1,0,Banner,1
+MU<FAN,4689,,sector-349,,,2,2,05-09-2014,,,,1,Married,0,3,2,others,1
+<ZGWSZ,4044,,sector-350,,,0,2,09-09-2014,,,,3,Unmarried,4,3,2,Friend,0
+?KADDH,4316,,sector-351,,,0,2,22-06-2014,,,,6,Unmarried,1,0,0,Friend,0
+CFMWDF,4171,,sector-352,,,2,0,10-04-2014,,,,4,Unmarried,3,1,2,Friend,0
+ZJSMKT,4189,,sector-353,,,1,0,04-08-2014,,,,4,Married,2,0,2,Friend,0
+W<=ABH,4847,,sector-354,,,1,2,26-12-2014,,,,6,Married,3,2,0,Banner,0
+K=SFGC,6762,,sector-355,,,2,2,22-01-2014,,,,5,Unmarried,1,-1,2,Mobile ad,1
+X??L@H,7947,,sector-356,,,0,2,01-07-2014,,,,2,Married,0,1,1,Mobile ad,1
+JVLZPH,7813,,sector-357,,,0,1,18-06-2014,,,,1,Unmarried,4,-1,1,Friend,0
+BJD?AL,7015,,sector-358,,,1,0,12-03-2014,,,,3,Unmarried,1,-1,1,Mobile ad,0
+KZICNB,5211,,sector-359,,,0,1,02-12-2014,,,,1,Married,2,-1,1,Friend,1
+KLOKCY,8315,,sector-360,,,2,1,24-12-2014,,,,1,Married,0,3,0,Friend,1
+BAKHAX,7997,,sector-361,,,2,0,23-11-2014,,,,4,Unmarried,3,2,0,Banner,1
+OHXUV@,8071,,sector-362,,,1,1,29-08-2014,,,,1,Unmarried,2,0,1,Banner,0
+UQNYBM,4525,,sector-363,,,1,0,15-09-2014,,,,2,Married,4,0,0,Banner,0
+EIWFFV,4922,,sector-364,,,2,0,23-05-2014,,,,3,Married,1,0,2,Friend,0
+U@BYHN,7909,,sector-365,,,0,2,31-12-2014,,,,6,Unmarried,4,1,1,Social media,1
+IOLQPI,8228,,sector-366,,,1,0,31-07-2014,,,,1,Married,3,0,2,Social media,1
+Q=PZ>N,6191,,sector-367,,,0,0,11-04-2014,,,,3,Unmarried,1,1,0,Friend,0
+XEJHGR,6322,,sector-368,,,2,1,10-12-2014,,,,5,Married,3,3,2,Friend,0
+O?=ZRC,4490,,sector-369,,,0,0,26-01-2014,,,,1,Unmarried,0,3,2,Banner,0
+VYNITM,7471,,sector-370,,,0,2,30-05-2014,,,,1,Unmarried,2,3,1,Friend,1
+T@W<DB,7937,,sector-371,,,1,1,05-12-2014,,,,2,Married,1,2,0,Mobile ad,0
+ZSLVLM,6171,,sector-372,,,2,0,26-07-2014,,,,2,Married,2,2,1,Friend,0
+E=W<OX,7795,,sector-373,,,0,2,16-02-2014,,,,3,Unmarried,0,1,0,Friend,1
+GSONNQ,7401,,sector-374,,,2,2,13-08-2014,,,,5,Married,4,3,1,Friend,0
+STOHTP,5481,,sector-375,,,2,0,27-11-2014,,,,5,Married,3,2,2,Mobile ad,0
+XF<O<E,6487,,sector-376,,,0,0,15-02-2014,,,,4,Unmarried,0,-1,0,Friend,0
+QQ<I?>,6317,,sector-377,,,1,2,03-08-2014,,,,5,Married,4,0,2,Friend,1
+AALJJZ,5740,,sector-378,,,2,2,27-03-2014,,,,5,Married,0,1,2,Banner,1
+@XD@IU,4844,,sector-379,,,0,2,04-11-2014,,,,5,Unmarried,2,3,2,Social media,1
+Prof SK Behera,12000221,M,sector-009,Professor,Cash,1,1,18-06-1902,2,3,RUPEES<40000>,4,Married,1,1,0,Banner,1
